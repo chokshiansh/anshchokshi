@@ -195,7 +195,7 @@ const Coffee: React.FC = () => {
 
       {/* Map */}
       <section className="flex flex-col">
-        <div className="w-full aspect-[4/3] sm:aspect-[16/10] bg-[#F5F4F2] rounded-sm border border-stone-200/60 overflow-hidden relative">
+        <div className="w-full aspect-[4/3] sm:aspect-[16/11] min-h-[280px] sm:min-h-[340px] bg-[#F5F4F2] rounded-sm border border-stone-200/60 overflow-hidden relative">
           <SFMap
             shops={mapShops}
             onSelectShop={handleSelectShop}

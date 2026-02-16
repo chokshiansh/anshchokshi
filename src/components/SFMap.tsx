@@ -35,6 +35,8 @@ const SFMap: React.FC<SFMapProps> = ({ shops, onSelectShop, selectedShopName }) 
   const [error, setError] = useState<string | null>(null);
   const [tooltip, setTooltip] = useState<TooltipState>({ visible: false, x: 0, y: 0, shop: null });
   const tooltipTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  // Ref for second-tap detection on mobile (avoids stale closure)
+  const lastTappedShopRef = useRef<string | null>(null);
 
   useEffect(() => {
     fetch('https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/san-francisco.geojson')
@@ -139,13 +141,16 @@ const SFMap: React.FC<SFMapProps> = ({ shops, onSelectShop, selectedShopName }) 
       // Touch + click: on mobile, first tap shows tooltip, second tap (or direct click on desktop) opens booking
       .on("click", function(event, d) {
         if (isTouchDevice) {
-          // If already showing tooltip for this shop, open booking
-          if (tooltip.shop?.name === d.name && tooltip.visible) {
+          // Use ref for synchronous second-tap detection (avoids stale React state)
+          if (lastTappedShopRef.current === d.name) {
+            lastTappedShopRef.current = null;
+            if (tooltipTimeoutRef.current) clearTimeout(tooltipTimeoutRef.current);
             setTooltip({ visible: false, x: 0, y: 0, shop: null });
             onSelectShop(d);
             return;
           }
           // Otherwise show tooltip centered on the dot (viewport coords for portal)
+          lastTappedShopRef.current = d.name;
           const coords = projection(d.coordinates!);
           if (coords && wrapperRef.current) {
             const wr = wrapperRef.current.getBoundingClientRect();
@@ -156,8 +161,9 @@ const SFMap: React.FC<SFMapProps> = ({ shops, onSelectShop, selectedShopName }) 
               y: wr.top + coords[1],
               shop: d,
             });
-            // Auto-hide after 3s
+            // Auto-hide after 3s and clear ref
             tooltipTimeoutRef.current = setTimeout(() => {
+              lastTappedShopRef.current = null;
               setTooltip({ visible: false, x: 0, y: 0, shop: null });
             }, 3000);
           }
@@ -167,11 +173,12 @@ const SFMap: React.FC<SFMapProps> = ({ shops, onSelectShop, selectedShopName }) 
         }
       });
 
-  }, [geoData, shops, selectedShopName, onSelectShop, isTouchDevice, tooltip.shop?.name, tooltip.visible]);
+  }, [geoData, shops, selectedShopName, onSelectShop, isTouchDevice]);
 
   // Hide tooltip when booking modal opens (e.g. from list or map click)
   useEffect(() => {
     if (selectedShopName) {
+      lastTappedShopRef.current = null;
       if (tooltipTimeoutRef.current) clearTimeout(tooltipTimeoutRef.current);
       setTooltip({ visible: false, x: 0, y: 0, shop: null });
     }
@@ -189,6 +196,7 @@ const SFMap: React.FC<SFMapProps> = ({ shops, onSelectShop, selectedShopName }) 
   const handleWrapperClick = useCallback((e: React.MouseEvent | React.TouchEvent) => {
     const target = e.target as Element;
     if (target.tagName !== 'circle' && tooltip.visible) {
+      lastTappedShopRef.current = null;
       setTooltip({ visible: false, x: 0, y: 0, shop: null });
     }
   }, [tooltip.visible]);
