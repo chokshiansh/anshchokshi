@@ -23,7 +23,7 @@ const Home: React.FC = () => {
     { org: 'poker pit', role: 'co-founder (acquired)' },
     { org: 'uoft', role: 'cs, econ, math' },
     { org: 'upsquare', role: 'intern' },
-    { org: 'badminton', role: 'competitive athlete' },
+    { org: 'badminton', role: 'state champion athlete' },
   ];
 
   return (
