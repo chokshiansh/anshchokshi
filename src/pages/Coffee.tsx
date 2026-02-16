@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useMemo, useEffect } from 'react';
+import React, { useState, useCallback, useMemo } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { CoffeeShop, BookingData } from '../types';
 import coffeeData from '../sf_coffee_shops_100.json';
@@ -28,15 +28,6 @@ function getTodayHours(shop: CoffeeShop): string {
 
 const Coffee: React.FC = () => {
   const navigate = useNavigate();
-  const [showSplash, setShowSplash] = useState(true);
-  const [splashFading, setSplashFading] = useState(false);
-
-  useEffect(() => {
-    const fadeTimer = setTimeout(() => setSplashFading(true), 2000);
-    const hideTimer = setTimeout(() => setShowSplash(false), 2300);
-    return () => { clearTimeout(fadeTimer); clearTimeout(hideTimer); };
-  }, []);
-
   const [mapShops, setMapShops] = useState<CoffeeShop[]>(() => pickRandom(ALL_SHOPS, 30));
   const [selectedShop, setSelectedShop] = useState<CoffeeShop | null>(null);
   const [isBookingOpen, setIsBookingOpen] = useState(false);
@@ -137,23 +128,9 @@ const Coffee: React.FC = () => {
 
   return (
     <div className="relative flex flex-col">
-      {/* Espresso splash screen */}
-      {showSplash && (
-        <div
-          className="fixed inset-0 z-[100] flex items-center justify-center bg-[#FAF9F7] transition-opacity duration-300"
-          style={{ opacity: splashFading ? 0 : 1 }}
-        >
-          <img
-            src="/Espress0.gif"
-            alt="Espresso pouring"
-            className="w-64 h-64 sm:w-80 sm:h-80 object-contain"
-          />
-        </div>
-      )}
-
       {showConfetti && <Confetti />}
 
-      {/* Back */}
+      {/* Back link */}
       <div className="mb-6 sm:mb-8 flex-none">
         <Link
           to="/"

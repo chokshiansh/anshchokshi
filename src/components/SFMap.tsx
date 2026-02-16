@@ -228,19 +228,27 @@ const SFMap: React.FC<SFMapProps> = ({ shops, onSelectShop, selectedShopName }) 
     top: tooltip.y,
     transform: showAbove ? 'translate(-50%, -100%) translateY(-16px)' : 'translate(-50%, 0) translateY(16px)',
     zIndex: 9999,
-    pointerEvents: 'none',
+    pointerEvents: isTouchDevice ? 'auto' : 'none',
   } : {};
 
+  const handleTooltipTap = useCallback(() => {
+    if (!isTouchDevice || !tooltip.shop) return;
+    lastTappedShopRef.current = null;
+    if (tooltipTimeoutRef.current) clearTimeout(tooltipTimeoutRef.current);
+    setTooltip({ visible: false, x: 0, y: 0, shop: null });
+    onSelectShop(tooltip.shop);
+  }, [isTouchDevice, tooltip.shop, onSelectShop]);
+
   const tooltipEl = tooltip.visible && tooltip.shop ? (
-    <div style={tooltipStyle}>
-      <div className="bg-white border border-stone-200 rounded-sm shadow-lg px-3 py-2 max-w-[200px] sm:max-w-[220px]">
+    <div style={tooltipStyle} onClick={isTouchDevice ? handleTooltipTap : undefined} role={isTouchDevice ? 'button' : undefined} tabIndex={isTouchDevice ? 0 : undefined} onKeyDown={isTouchDevice ? (e) => e.key === 'Enter' && handleTooltipTap() : undefined}>
+      <div className={`bg-white border border-stone-200 rounded-sm shadow-lg px-3 py-2 max-w-[200px] sm:max-w-[220px] ${isTouchDevice ? 'cursor-pointer touch-manipulation active:opacity-90' : ''}`}>
         <p className="text-[11px] sm:text-xs font-medium text-stone-900 leading-tight truncate">{tooltip.shop.name}</p>
         <p className="text-[10px] text-stone-400 mt-0.5 truncate">{tooltip.shop.address}</p>
         <div className="mt-1 pt-1 border-t border-stone-100">
           <p className="text-[10px] font-mono text-stone-500">{getTodayHours(tooltip.shop)}</p>
         </div>
         {isTouchDevice && (
-          <p className="text-[9px] text-stone-300 mt-1">tap again to book</p>
+          <p className="text-[9px] text-stone-300 mt-1">tap to book</p>
         )}
       </div>
     </div>
