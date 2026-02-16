@@ -15,6 +15,9 @@ dist-ssr
 # One-time data scripts (contain API keys)
 scripts/
 
+# Vercel
+.vercel
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
