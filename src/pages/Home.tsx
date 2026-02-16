@@ -110,7 +110,7 @@ const Home: React.FC = () => {
             </a>
           </span>
         </div>
-        <Link 
+        <Link
           to="/coffee"
           className="text-stone-600 hover:text-black transition-colors text-left leading-relaxed font-normal text-sm sm:text-base lg:text-lg border-b border-stone-300 hover:border-black pb-0.5"
         >

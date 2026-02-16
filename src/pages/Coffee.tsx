@@ -127,7 +127,7 @@ const Coffee: React.FC = () => {
   }, [bookingData.date]);
 
   return (
-    <div className="relative flex flex-col">
+    <div className="relative flex flex-col animate-in fade-in" style={{ animationDuration: '500ms' }}>
       {showConfetti && <Confetti />}
 
       {/* Back link */}
@@ -272,10 +272,8 @@ const Coffee: React.FC = () => {
 
             {step === 1 && (
               <div className="animate-in slide-in-from-right-4 duration-300">
-                <h4 className="text-sm font-bold text-stone-900 mb-3 sm:mb-4">select date & time</h4>
 
                 <div className="mb-4 sm:mb-6">
-                  <label className="text-xs text-stone-400 mb-2 block uppercase tracking-wider">date</label>
                   <div className="flex gap-2 overflow-x-auto pb-2 no-scrollbar">
                     {nextDates.map(date => {
                       const iso = date.toISOString().slice(0, 10);
@@ -309,7 +307,6 @@ const Coffee: React.FC = () => {
                 </div>
 
                 <div className="mb-6 sm:mb-8">
-                  <label className="text-xs text-stone-400 mb-2 block uppercase tracking-wider">time slot</label>
                   <div className="grid grid-cols-3 gap-2">
                     {availableTimes.map(time => {
                       const isSelected = bookingData.time === time;
