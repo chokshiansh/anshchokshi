@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 
 const LINKS: Record<string, string> = {
@@ -12,11 +12,6 @@ const LINKS: Record<string, string> = {
 const Home: React.FC = () => {
   const [pokerOpen, setPokerOpen] = useState(false);
 
-  useEffect(() => {
-    document.body.style.overflow = 'hidden';
-    return () => { document.body.style.overflow = ''; };
-  }, []);
-
   const pastItems = [
     { org: 'seismic', role: 'aiml engineer' },
     { org: 'mireye', role: 'ceo & founder (failed)' },
@@ -27,7 +22,7 @@ const Home: React.FC = () => {
   ];
 
   return (
-    <div className="flex flex-col justify-between h-[calc(100vh-5rem)] sm:h-[calc(100vh-7rem)] lg:h-[calc(100vh-8rem)] min-h-0 overflow-hidden animate-in fade-in duration-1000">
+    <div className="flex flex-col gap-6 sm:gap-0 sm:justify-between sm:min-h-[calc(100vh-7rem)] lg:min-h-[calc(100vh-8rem)] animate-in fade-in duration-1000">
       
       {/* 1. HEADER */}
       <div>
