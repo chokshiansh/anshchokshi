@@ -1,0 +1,3782 @@
+{
+  "metadata": {
+    "title": "100 Best Local Coffee Spots in San Francisco",
+    "description": "Curated list of independent, local coffee shops across San Francisco, excluding chains like Starbucks",
+    "total_count": 100,
+    "last_updated": "2026-02-15",
+    "coverage": "All major SF neighborhoods with geographic diversity",
+    "hours_source": "exa.ai"
+  },
+  "coffee_shops": [
+    {
+      "name": "7 Elves Russian Hill",
+      "address": "99 Himmelmann Pl, San Francisco, CA",
+      "hours": "Mon: 5:00 pm - 9:00 pm, Tue: 5:00 pm - 9:00 pm, Wed: 5:00 pm - 9:00 pm, Thu: 5:00 pm - 9:00 pm, Fri: 5:00 pm - 9:30 pm, Sat: 5:00 pm - 9:30 pm, Sun: 5:00 pm - 9:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "5:00 pm",
+          "close": "9:00 pm"
+        },
+        "tuesday": {
+          "open": "5:00 pm",
+          "close": "9:00 pm"
+        },
+        "wednesday": {
+          "open": "5:00 pm",
+          "close": "9:00 pm"
+        },
+        "thursday": {
+          "open": "5:00 pm",
+          "close": "9:00 pm"
+        },
+        "friday": {
+          "open": "5:00 pm",
+          "close": "9:30 pm"
+        },
+        "saturday": {
+          "open": "5:00 pm",
+          "close": "9:30 pm"
+        },
+        "sunday": {
+          "open": "5:00 pm",
+          "close": "9:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.4129148,
+        37.7966452
+      ]
+    },
+    {
+      "name": "Third Wheel Coffee",
+      "address": "535 Scott St, San Francisco, CA",
+      "hours": "Mon-Sun: 7:00 am - 3:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        },
+        "tuesday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        },
+        "wednesday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        },
+        "thursday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        },
+        "friday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        },
+        "saturday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        },
+        "sunday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.436334,
+        37.7747863
+      ]
+    },
+    {
+      "name": "6 Flavor Coffee",
+      "address": "Bluxome St, San Francisco, CA",
+      "hours": "Mon-Sun: 7:00 AM - 8:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 AM",
+          "close": "8:00 PM"
+        },
+        "tuesday": {
+          "open": "7:00 AM",
+          "close": "8:00 PM"
+        },
+        "wednesday": {
+          "open": "7:00 AM",
+          "close": "8:00 PM"
+        },
+        "thursday": {
+          "open": "7:00 AM",
+          "close": "8:00 PM"
+        },
+        "friday": {
+          "open": "7:00 AM",
+          "close": "8:00 PM"
+        },
+        "saturday": {
+          "open": "7:00 AM",
+          "close": "8:00 PM"
+        },
+        "sunday": {
+          "open": "7:00 AM",
+          "close": "8:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.3979885,
+        37.7759772
+      ]
+    },
+    {
+      "name": "Lupita's Coffee and Tamales",
+      "address": "1029 Phelps St, San Francisco, CA",
+      "hours": "Mon-Sun: 6:00 AM - 11:55 AM",
+      "weekly_hours": {
+        "monday": {
+          "open": "6:00 AM",
+          "close": "11:55 AM"
+        },
+        "tuesday": {
+          "open": "6:00 AM",
+          "close": "11:55 AM"
+        },
+        "wednesday": {
+          "open": "6:00 AM",
+          "close": "11:55 AM"
+        },
+        "thursday": {
+          "open": "6:00 AM",
+          "close": "11:55 AM"
+        },
+        "friday": {
+          "open": "6:00 AM",
+          "close": "11:55 AM"
+        },
+        "saturday": {
+          "open": "6:00 AM",
+          "close": "11:55 AM"
+        },
+        "sunday": {
+          "open": "6:00 AM",
+          "close": "11:55 AM"
+        }
+      },
+      "coordinates": [
+        -122.3919459,
+        37.7389589
+      ]
+    },
+    {
+      "name": "Fanoos Coffee",
+      "address": "626 Mission Bay Blvd North, San Francisco, CA",
+      "hours": "Mon: 11:00 am - 11:00 pm, Tue: 11:00 am - 11:00 pm, Wed: 11:00 am - 11:00 pm, Thu: 11:00 am - 11:00 pm, Fri: 11:00 am - 12:00 am, Sat: 11:00 am - 12:00 am, Sun: 11:00 am - 10:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "11:00 am",
+          "close": "11:00 pm"
+        },
+        "tuesday": {
+          "open": "11:00 am",
+          "close": "11:00 pm"
+        },
+        "wednesday": {
+          "open": "11:00 am",
+          "close": "11:00 pm"
+        },
+        "thursday": {
+          "open": "11:00 am",
+          "close": "11:00 pm"
+        },
+        "friday": {
+          "open": "11:00 am",
+          "close": "12:00 am"
+        },
+        "saturday": {
+          "open": "11:00 am",
+          "close": "12:00 am"
+        },
+        "sunday": {
+          "open": "11:00 am",
+          "close": "10:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.3939923,
+        37.7708343
+      ]
+    },
+    {
+      "name": "Underground SF Coffeshop",
+      "address": "424 Haight St, San Francisco, CA",
+      "hours": "Mon: 7:00 AM - 1:00 PM, Tue: 7:00 AM - 1:00 PM, Wed: 7:00 AM - 1:00 PM, Thu: 9:00 PM - 2:00 AM, Fri: 9:00 PM - 2:00 AM, Sat: 9:00 PM - 2:00 AM, Sun: Closed - ",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 AM",
+          "close": "1:00 PM"
+        },
+        "tuesday": {
+          "open": "7:00 AM",
+          "close": "1:00 PM"
+        },
+        "wednesday": {
+          "open": "7:00 AM",
+          "close": "1:00 PM"
+        },
+        "thursday": {
+          "open": "9:00 PM",
+          "close": "2:00 AM"
+        },
+        "friday": {
+          "open": "9:00 PM",
+          "close": "2:00 AM"
+        },
+        "saturday": {
+          "open": "9:00 PM",
+          "close": "2:00 AM"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": ""
+        }
+      },
+      "coordinates": [
+        -122.4293176,
+        37.7723529
+      ]
+    },
+    {
+      "name": "El Corazon Cafe",
+      "address": "2301 Mission St Space \"C, San Francisco, CA",
+      "hours": "Mon: 10:30AM - 7:00PM, Tue: 10:30AM - 7:00PM, Wed: 10:30AM - 7:00PM, Thu: 10:30AM - 7:00PM, Fri: 10:30AM - 7:00PM, Sat: 10:30AM - 6:00PM, Sun: 12:00PM - 5:00PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "10:30AM",
+          "close": "7:00PM"
+        },
+        "tuesday": {
+          "open": "10:30AM",
+          "close": "7:00PM"
+        },
+        "wednesday": {
+          "open": "10:30AM",
+          "close": "7:00PM"
+        },
+        "thursday": {
+          "open": "10:30AM",
+          "close": "7:00PM"
+        },
+        "friday": {
+          "open": "10:30AM",
+          "close": "7:00PM"
+        },
+        "saturday": {
+          "open": "10:30AM",
+          "close": "6:00PM"
+        },
+        "sunday": {
+          "open": "12:00PM",
+          "close": "5:00PM"
+        }
+      }
+    },
+    {
+      "name": "Streetside Chai",
+      "address": "1200 Sanchez St, San Francisco, CA",
+      "hours": "Mon: 7:30AM - 4:30PM, Tue: 7:30AM - 4:30PM, Wed: 7:30AM - 4:30PM, Thu: 7:30AM - 4:30PM, Fri: 7:30AM - 4:30PM, Sat: 7:30AM - 4:30PM, Sun: 8:00AM - 3:00PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:30AM",
+          "close": "4:30PM"
+        },
+        "tuesday": {
+          "open": "7:30AM",
+          "close": "4:30PM"
+        },
+        "wednesday": {
+          "open": "7:30AM",
+          "close": "4:30PM"
+        },
+        "thursday": {
+          "open": "7:30AM",
+          "close": "4:30PM"
+        },
+        "friday": {
+          "open": "7:30AM",
+          "close": "4:30PM"
+        },
+        "saturday": {
+          "open": "7:30AM",
+          "close": "4:30PM"
+        },
+        "sunday": {
+          "open": "8:00AM",
+          "close": "3:00PM"
+        }
+      },
+      "coordinates": [
+        -122.429592,
+        37.749836
+      ]
+    },
+    {
+      "name": "Sunday Morning Coffee Club",
+      "address": "1624 Sacramento St, San Francisco, CA",
+      "hours": "Mon-Fri: 7:00 AM - 5:00 PM, Sat-Sun: 8:00 AM - 4:00 PM",
+      "coordinates": [
+        -122.4199625,
+        37.7919004
+      ]
+    },
+    {
+      "name": "Madam Zola's Fortune cafe",
+      "address": "900 Marin St, San Francisco, CA",
+      "hours": "Mon-Fri: 10:00 - 15:00, Sat-Sun: Closed - Closed",
+      "weekly_hours": {
+        "monday": {
+          "open": "10:00",
+          "close": "15:00"
+        },
+        "tuesday": {
+          "open": "10:00",
+          "close": "15:00"
+        },
+        "wednesday": {
+          "open": "10:00",
+          "close": "15:00"
+        },
+        "thursday": {
+          "open": "10:00",
+          "close": "15:00"
+        },
+        "friday": {
+          "open": "10:00",
+          "close": "15:00"
+        },
+        "saturday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": "Closed"
+        }
+      },
+      "coordinates": [
+        -122.3860944,
+        37.7495304
+      ]
+    },
+    {
+      "name": "Sunset Commons",
+      "address": "1600 Irving St #1610, San Francisco, CA",
+      "hours": "Mon-Sun: N/A - N/A",
+      "weekly_hours": {
+        "monday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "tuesday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "wednesday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "thursday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "friday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "saturday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "sunday": {
+          "open": "N/A",
+          "close": "N/A"
+        }
+      },
+      "coordinates": [
+        -122.4752464,
+        37.7637184
+      ]
+    },
+    {
+      "name": "Kopê House",
+      "address": "548 Laguna St, San Francisco, CA",
+      "hours": "Mon-Sun: Closed - Closed",
+      "weekly_hours": {
+        "monday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "tuesday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "wednesday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "thursday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "friday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "saturday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": "Closed"
+        }
+      },
+      "coordinates": [
+        -122.4261022,
+        37.776191
+      ]
+    },
+    {
+      "name": "Wave",
+      "address": "663 Haight St, San Francisco, CA",
+      "hours": "Mon: Closed - , Tue: Closed - , Wed: Closed - , Thu: 5pm - 10pm, Fri: 1pm - 6pm, Sat: 1pm - 6pm, Sun: 9am - 1pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "Closed",
+          "close": ""
+        },
+        "tuesday": {
+          "open": "Closed",
+          "close": ""
+        },
+        "wednesday": {
+          "open": "Closed",
+          "close": ""
+        },
+        "thursday": {
+          "open": "5pm",
+          "close": "10pm"
+        },
+        "friday": {
+          "open": "1pm",
+          "close": "6pm"
+        },
+        "saturday": {
+          "open": "1pm",
+          "close": "6pm"
+        },
+        "sunday": {
+          "open": "9am",
+          "close": "1pm"
+        }
+      },
+      "coordinates": [
+        -122.4331047,
+        37.771587
+      ]
+    },
+    {
+      "name": "Komakase",
+      "address": "303 2nd St N102, San Francisco, CA",
+      "hours": "Mon: 8:30 AM - 2:30 PM, Tue: 8:00 AM - 2:30 PM, Wed: 8:00 AM - 2:30 PM, Thu: 8:00 AM - 2:30 PM, Fri: 8:00 AM - 2:30 PM, Sat: 9:00 AM - 3:30 PM, Sun: 9:00 AM - 3:30 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:30 AM",
+          "close": "2:30 PM"
+        },
+        "tuesday": {
+          "open": "8:00 AM",
+          "close": "2:30 PM"
+        },
+        "wednesday": {
+          "open": "8:00 AM",
+          "close": "2:30 PM"
+        },
+        "thursday": {
+          "open": "8:00 AM",
+          "close": "2:30 PM"
+        },
+        "friday": {
+          "open": "8:00 AM",
+          "close": "2:30 PM"
+        },
+        "saturday": {
+          "open": "9:00 AM",
+          "close": "3:30 PM"
+        },
+        "sunday": {
+          "open": "9:00 AM",
+          "close": "3:30 PM"
+        }
+      },
+      "coordinates": [
+        -122.3963944,
+        37.7855373
+      ]
+    },
+    {
+      "name": "Kolaj",
+      "address": "1977 Union St, San Francisco, CA",
+      "hours": "Mon: 9:30 AM - 7:00 PM, Tue: 10:00 AM - 7:00 PM, Wed: 9:30 AM - 7:00 PM, Thu: 9:30 AM - 7:00 PM, Fri: 10:00 AM - 7:30 PM, Sat: 9:30 AM - 7:30 PM, Sun: 10:00 AM - 4:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "9:30 AM",
+          "close": "7:00 PM"
+        },
+        "tuesday": {
+          "open": "10:00 AM",
+          "close": "7:00 PM"
+        },
+        "wednesday": {
+          "open": "9:30 AM",
+          "close": "7:00 PM"
+        },
+        "thursday": {
+          "open": "9:30 AM",
+          "close": "7:00 PM"
+        },
+        "friday": {
+          "open": "10:00 AM",
+          "close": "7:30 PM"
+        },
+        "saturday": {
+          "open": "9:30 AM",
+          "close": "7:30 PM"
+        },
+        "sunday": {
+          "open": "10:00 AM",
+          "close": "4:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.4316211,
+        37.7973968
+      ]
+    },
+    {
+      "name": "Chula Cafe",
+      "address": "999 Wisconsin St, San Francisco, CA",
+      "hours": "Mon: 8:00 am - 2:00 pm, Tue: Closed - , Wed: 8:00 am - 2:00 pm, Thu: 8:00 am - 2:00 pm, Fri: 8:00 am - 2:00 pm, Sat: 8:00 am - 2:00 pm, Sun: 8:00 am - 2:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00 am",
+          "close": "2:00 pm"
+        },
+        "tuesday": {
+          "open": "Closed",
+          "close": ""
+        },
+        "wednesday": {
+          "open": "8:00 am",
+          "close": "2:00 pm"
+        },
+        "thursday": {
+          "open": "8:00 am",
+          "close": "2:00 pm"
+        },
+        "friday": {
+          "open": "8:00 am",
+          "close": "2:00 pm"
+        },
+        "saturday": {
+          "open": "8:00 am",
+          "close": "2:00 pm"
+        },
+        "sunday": {
+          "open": "8:00 am",
+          "close": "2:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.3984194,
+        37.754964
+      ]
+    },
+    {
+      "name": "Native Twins Coffee",
+      "address": "Gough St, San Francisco, CA",
+      "hours": "Mon: 8 a.m. - 3 p.m., Tue: 8 a.m. - 3 p.m., Wed: 8 a.m. - 3 p.m., Thu: 8 a.m. - 3 p.m., Fri: 8 a.m. - 3 p.m., Sat: 8 a.m. - 5 p.m., Sun: 8 a.m. - 3 p.m.",
+      "weekly_hours": {
+        "monday": {
+          "open": "8 a.m.",
+          "close": "3 p.m."
+        },
+        "tuesday": {
+          "open": "8 a.m.",
+          "close": "3 p.m."
+        },
+        "wednesday": {
+          "open": "8 a.m.",
+          "close": "3 p.m."
+        },
+        "thursday": {
+          "open": "8 a.m.",
+          "close": "3 p.m."
+        },
+        "friday": {
+          "open": "8 a.m.",
+          "close": "3 p.m."
+        },
+        "saturday": {
+          "open": "8 a.m.",
+          "close": "5 p.m."
+        },
+        "sunday": {
+          "open": "8 a.m.",
+          "close": "3 p.m."
+        }
+      },
+      "coordinates": [
+        -122.4260871,
+        37.7922047
+      ]
+    },
+    {
+      "name": "Tea Rex Cafe & Specialty Teas",
+      "address": "3438 Mission St, San Francisco, CA",
+      "hours": "Mon-Sun: 7:30am - 3:00pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:30am",
+          "close": "3:00pm"
+        },
+        "tuesday": {
+          "open": "7:30am",
+          "close": "3:00pm"
+        },
+        "wednesday": {
+          "open": "7:30am",
+          "close": "3:00pm"
+        },
+        "thursday": {
+          "open": "7:30am",
+          "close": "3:00pm"
+        },
+        "friday": {
+          "open": "7:30am",
+          "close": "3:00pm"
+        },
+        "saturday": {
+          "open": "7:30am",
+          "close": "3:00pm"
+        },
+        "sunday": {
+          "open": "7:30am",
+          "close": "3:00pm"
+        }
+      },
+      "coordinates": [
+        -122.422572,
+        37.7416967
+      ]
+    },
+    {
+      "name": "Legends Cafe & Creamery",
+      "address": "620 Broadway, San Francisco, CA",
+      "hours": "Mon: 11:30 AM - 11:59 PM, Tue: 11:30 AM - 11:59 PM, Wed: 5:00 PM - 11:59 PM, Thu: 12:00 PM - 11:59 PM, Fri: 2:30 PM - 1:30 AM, Sat: 2:30 PM - 1:30 AM, Sun: 11:30 AM - 11:59 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "11:30 AM",
+          "close": "11:59 PM"
+        },
+        "tuesday": {
+          "open": "11:30 AM",
+          "close": "11:59 PM"
+        },
+        "wednesday": {
+          "open": "5:00 PM",
+          "close": "11:59 PM"
+        },
+        "thursday": {
+          "open": "12:00 PM",
+          "close": "11:59 PM"
+        },
+        "friday": {
+          "open": "2:30 PM",
+          "close": "1:30 AM"
+        },
+        "saturday": {
+          "open": "2:30 PM",
+          "close": "1:30 AM"
+        },
+        "sunday": {
+          "open": "11:30 AM",
+          "close": "11:59 PM"
+        }
+      },
+      "coordinates": [
+        -122.4074504,
+        37.7979399
+      ]
+    },
+    {
+      "name": "Angelina's Brazilian Cafe",
+      "address": "1465 Donner Ave, San Francisco, CA",
+      "hours": "Mon: 7:30am - 4:30pm, Tue: 7:30am - 4:30pm, Wed: 7:30am - 4:30pm, Thu: 7:30am - 4:30pm, Fri: 7:30am - 4:30pm, Sat: 7:30am - 4:30pm, Sun: 8:00am - 3:00pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:30am",
+          "close": "4:30pm"
+        },
+        "tuesday": {
+          "open": "7:30am",
+          "close": "4:30pm"
+        },
+        "wednesday": {
+          "open": "7:30am",
+          "close": "4:30pm"
+        },
+        "thursday": {
+          "open": "7:30am",
+          "close": "4:30pm"
+        },
+        "friday": {
+          "open": "7:30am",
+          "close": "4:30pm"
+        },
+        "saturday": {
+          "open": "7:30am",
+          "close": "4:30pm"
+        },
+        "sunday": {
+          "open": "8:00am",
+          "close": "3:00pm"
+        }
+      },
+      "coordinates": [
+        -122.3918198,
+        37.7230522
+      ]
+    },
+    {
+      "name": "Cafe Velora",
+      "address": "1317 Haight St #19, San Francisco, CA",
+      "hours": "Mon: 10:00 am - 8:00 pm, Tue: 10:00 am - 8:00 pm, Wed: 10:00 am - 8:00 pm, Thu: 10:00 am - 8:00 pm, Fri: 10:00 am - 10:00 pm, Sat: 10:00 am - 10:00 pm, Sun: 10:00 am - 8:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "10:00 am",
+          "close": "8:00 pm"
+        },
+        "tuesday": {
+          "open": "10:00 am",
+          "close": "8:00 pm"
+        },
+        "wednesday": {
+          "open": "10:00 am",
+          "close": "8:00 pm"
+        },
+        "thursday": {
+          "open": "10:00 am",
+          "close": "8:00 pm"
+        },
+        "friday": {
+          "open": "10:00 am",
+          "close": "10:00 pm"
+        },
+        "saturday": {
+          "open": "10:00 am",
+          "close": "10:00 pm"
+        },
+        "sunday": {
+          "open": "10:00 am",
+          "close": "8:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.4440621,
+        37.7702825
+      ]
+    },
+    {
+      "name": "Leadbetter's Bake Shop",
+      "address": "554 Castro St, San Francisco, CA",
+      "hours": "Mon: 7:00 AM - 2:00 PM, Tue: Closed - Closed, Wed: 7:00 AM - 2:00 PM, Thu: 7:00 AM - 2:00 PM, Fri: 7:00 AM - 2:00 PM, Sat: 9:00 AM - 3:00 PM, Sun: 9:00 AM - 3:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 AM",
+          "close": "2:00 PM"
+        },
+        "tuesday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "wednesday": {
+          "open": "7:00 AM",
+          "close": "2:00 PM"
+        },
+        "thursday": {
+          "open": "7:00 AM",
+          "close": "2:00 PM"
+        },
+        "friday": {
+          "open": "7:00 AM",
+          "close": "2:00 PM"
+        },
+        "saturday": {
+          "open": "9:00 AM",
+          "close": "3:00 PM"
+        },
+        "sunday": {
+          "open": "9:00 AM",
+          "close": "3:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.4352597,
+        37.7600046
+      ]
+    },
+    {
+      "name": "Mi Cafecito Sf",
+      "address": "1048 Cesar Chavez St, San Francisco, CA",
+      "hours": "Mon-Sun: 7:00 AM - 2:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 AM",
+          "close": "2:00 PM"
+        },
+        "tuesday": {
+          "open": "7:00 AM",
+          "close": "2:00 PM"
+        },
+        "wednesday": {
+          "open": "7:00 AM",
+          "close": "2:00 PM"
+        },
+        "thursday": {
+          "open": "7:00 AM",
+          "close": "2:00 PM"
+        },
+        "friday": {
+          "open": "7:00 AM",
+          "close": "2:00 PM"
+        },
+        "saturday": {
+          "open": "7:00 AM",
+          "close": "2:00 PM"
+        },
+        "sunday": {
+          "open": "7:00 AM",
+          "close": "2:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.3880533,
+        37.7503166
+      ]
+    },
+    {
+      "name": "The Coffee Berry SF",
+      "address": "1410 Lombard St, San Francisco, CA",
+      "hours": "Mon-Sun: 7:00 AM - 6:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 AM",
+          "close": "6:00 PM"
+        },
+        "tuesday": {
+          "open": "7:00 AM",
+          "close": "6:00 PM"
+        },
+        "wednesday": {
+          "open": "7:00 AM",
+          "close": "6:00 PM"
+        },
+        "thursday": {
+          "open": "7:00 AM",
+          "close": "6:00 PM"
+        },
+        "friday": {
+          "open": "7:00 AM",
+          "close": "6:00 PM"
+        },
+        "saturday": {
+          "open": "7:00 AM",
+          "close": "6:00 PM"
+        },
+        "sunday": {
+          "open": "7:00 AM",
+          "close": "6:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.4249555,
+        37.8014396
+      ]
+    },
+    {
+      "name": "Bird and Bear Coffee",
+      "address": "726 Cole St, San Francisco, CA",
+      "hours": "Mon-Sun: 10:00 - 18:00",
+      "weekly_hours": {
+        "monday": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "tuesday": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "wednesday": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "thursday": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "friday": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "saturday": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "sunday": {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      },
+      "coordinates": [
+        -122.4501292,
+        37.7678108
+      ]
+    },
+    {
+      "name": "Boa's CVC",
+      "address": "3951 Balboa St, San Francisco, CA",
+      "hours": "Mon-Sun: 8:00 AM - 8:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "tuesday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "wednesday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "thursday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "friday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "saturday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "sunday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.5013491,
+        37.775369
+      ]
+    },
+    {
+      "name": "The Nosh Box",
+      "address": "1116 Folsom St, San Francisco, CA",
+      "hours": "Mon: 8:00 AM - 3:00 PM, Tue: 8:00 AM - 3:00 PM, Wed: 8:00 AM - 3:00 PM, Thu: 8:00 AM - 3:00 PM, Fri: 8:00 AM - 3:00 PM, Sat: 8:00 AM - 3:00 PM, Sun: Closed - Closed",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "tuesday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "wednesday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "thursday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "friday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "saturday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": "Closed"
+        }
+      },
+      "coordinates": [
+        -122.4083959,
+        37.7765167
+      ]
+    },
+    {
+      "name": "bloomstock",
+      "address": "1730 Yosemite Ave, San Francisco, CA",
+      "hours": "Mon-Fri: 7:00 AM - 5:00 PM, Sat-Sun: 8:00 AM - 4:00 PM",
+      "coordinates": [
+        -122.3939854,
+        37.7284613
+      ]
+    },
+    {
+      "name": "Progeny Coffee",
+      "address": "1395 22nd St, San Francisco, CA",
+      "hours": "Mon-Sun: 8:00 a.m. - 4:00 p.m.",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00 a.m.",
+          "close": "4:00 p.m."
+        },
+        "tuesday": {
+          "open": "8:00 a.m.",
+          "close": "4:00 p.m."
+        },
+        "wednesday": {
+          "open": "8:00 a.m.",
+          "close": "4:00 p.m."
+        },
+        "thursday": {
+          "open": "8:00 a.m.",
+          "close": "4:00 p.m."
+        },
+        "friday": {
+          "open": "8:00 a.m.",
+          "close": "4:00 p.m."
+        },
+        "saturday": {
+          "open": "8:00 a.m.",
+          "close": "4:00 p.m."
+        },
+        "sunday": {
+          "open": "8:00 a.m.",
+          "close": "4:00 p.m."
+        }
+      },
+      "coordinates": [
+        -122.3946954,
+        37.7568826
+      ]
+    },
+    {
+      "name": "Bella Cafe",
+      "address": "12 Tillman Pl, San Francisco, CA",
+      "hours": "Mon: 08:00 am - 06:00 pm, Tue: 08:00 am - 06:00 pm, Wed: 08:00 am - 06:00 pm, Thu: 08:00 am - 06:00 pm, Fri: 08:00 am - 06:00 pm, Sat: 09:00 am - 06:00 pm, Sun: Closed - ",
+      "weekly_hours": {
+        "monday": {
+          "open": "08:00 am",
+          "close": "06:00 pm"
+        },
+        "tuesday": {
+          "open": "08:00 am",
+          "close": "06:00 pm"
+        },
+        "wednesday": {
+          "open": "08:00 am",
+          "close": "06:00 pm"
+        },
+        "thursday": {
+          "open": "08:00 am",
+          "close": "06:00 pm"
+        },
+        "friday": {
+          "open": "08:00 am",
+          "close": "06:00 pm"
+        },
+        "saturday": {
+          "open": "09:00 am",
+          "close": "06:00 pm"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": ""
+        }
+      },
+      "coordinates": [
+        -122.4055313,
+        37.7893367
+      ]
+    },
+    {
+      "name": "The Wild Fox",
+      "address": "123 Battery St, San Francisco, CA",
+      "hours": "Mon-Sun: 7:00 AM - 5:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 AM",
+          "close": "5:00 PM"
+        },
+        "tuesday": {
+          "open": "7:00 AM",
+          "close": "5:00 PM"
+        },
+        "wednesday": {
+          "open": "7:00 AM",
+          "close": "5:00 PM"
+        },
+        "thursday": {
+          "open": "7:00 AM",
+          "close": "5:00 PM"
+        },
+        "friday": {
+          "open": "7:00 AM",
+          "close": "5:00 PM"
+        },
+        "saturday": {
+          "open": "7:00 AM",
+          "close": "5:00 PM"
+        },
+        "sunday": {
+          "open": "7:00 AM",
+          "close": "5:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.3998982,
+        37.7924023
+      ]
+    },
+    {
+      "name": "Kopiku Indonesian Coffee",
+      "address": "1443 Lombard St, San Francisco, CA",
+      "hours": "Mon: Closed - , Tue: 6:30 AM - 5:00 PM, Wed: 6:30 AM - 5:00 PM, Thu: 6:30 AM - 5:00 PM, Fri: 6:30 AM - 5:00 PM, Sat: 7:00 AM - 5:00 PM, Sun: 7:00 AM - 5:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "Closed",
+          "close": ""
+        },
+        "tuesday": {
+          "open": "6:30 AM",
+          "close": "5:00 PM"
+        },
+        "wednesday": {
+          "open": "6:30 AM",
+          "close": "5:00 PM"
+        },
+        "thursday": {
+          "open": "6:30 AM",
+          "close": "5:00 PM"
+        },
+        "friday": {
+          "open": "6:30 AM",
+          "close": "5:00 PM"
+        },
+        "saturday": {
+          "open": "7:00 AM",
+          "close": "5:00 PM"
+        },
+        "sunday": {
+          "open": "7:00 AM",
+          "close": "5:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.4253593,
+        37.8008981
+      ]
+    },
+    {
+      "name": "Viva Cafe",
+      "address": "601 Montgomery St, San Francisco, CA",
+      "hours": "Mon-Sun: 7:30 am - 11:30 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:30 am",
+          "close": "11:30 pm"
+        },
+        "tuesday": {
+          "open": "7:30 am",
+          "close": "11:30 pm"
+        },
+        "wednesday": {
+          "open": "7:30 am",
+          "close": "11:30 pm"
+        },
+        "thursday": {
+          "open": "7:30 am",
+          "close": "11:30 pm"
+        },
+        "friday": {
+          "open": "7:30 am",
+          "close": "11:30 pm"
+        },
+        "saturday": {
+          "open": "7:30 am",
+          "close": "11:30 pm"
+        },
+        "sunday": {
+          "open": "7:30 am",
+          "close": "11:30 pm"
+        }
+      },
+      "coordinates": [
+        -122.4035354,
+        37.7948371
+      ]
+    },
+    {
+      "name": "Jeremiah's Pick Coffee Co.",
+      "address": "1495 Evans Ave, San Francisco, CA",
+      "hours": "Mon-Fri: 9:00 am - 5:00 pm, Sat-Sun: closed - closed",
+      "weekly_hours": {
+        "monday": {
+          "open": "9:00 am",
+          "close": "5:00 pm"
+        },
+        "tuesday": {
+          "open": "9:00 am",
+          "close": "5:00 pm"
+        },
+        "wednesday": {
+          "open": "9:00 am",
+          "close": "5:00 pm"
+        },
+        "thursday": {
+          "open": "9:00 am",
+          "close": "5:00 pm"
+        },
+        "friday": {
+          "open": "9:00 am",
+          "close": "5:00 pm"
+        },
+        "saturday": {
+          "open": "closed",
+          "close": "closed"
+        },
+        "sunday": {
+          "open": "closed",
+          "close": "closed"
+        }
+      },
+      "coordinates": [
+        -122.3864678,
+        37.741725
+      ]
+    },
+    {
+      "name": "Together Wine Lounge Dogpatch",
+      "address": "2490 3rd St, San Francisco, CA",
+      "hours": "Mon-Fri: 7:00 AM - 5:00 PM, Sat-Sun: 8:00 AM - 4:00 PM",
+      "coordinates": [
+        -122.388527,
+        37.7581814
+      ]
+    },
+    {
+      "name": "HI NRG",
+      "address": "443 Clement St, San Francisco, CA",
+      "hours": "Mon: Closed - Closed, Tue: Closed - Closed, Wed: 9:00 am - 2:00 pm, Thu: 9:00 am - 2:00 pm, Fri: 9:00 am - 2:00 pm, Sat: 9:00 am - 2:00 pm, Sun: 9:00 am - 2:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "tuesday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "wednesday": {
+          "open": "9:00 am",
+          "close": "2:00 pm"
+        },
+        "thursday": {
+          "open": "9:00 am",
+          "close": "2:00 pm"
+        },
+        "friday": {
+          "open": "9:00 am",
+          "close": "2:00 pm"
+        },
+        "saturday": {
+          "open": "9:00 am",
+          "close": "2:00 pm"
+        },
+        "sunday": {
+          "open": "9:00 am",
+          "close": "2:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.4640951,
+        37.7827205
+      ]
+    },
+    {
+      "name": "Social Cafe",
+      "address": "804 Bryant St, San Francisco, CA",
+      "hours": "Mon: 7:30 AM - 4:00 PM, Tue: 7:30 AM - 3:00 PM, Wed: 7:30 AM - 3:00 PM, Thu: 7:30 AM - 3:00 PM, Fri: 7:30 AM - 3:00 PM, Sat: 10:00 AM - 3:00 PM, Sun: 10:00 AM - 3:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:30 AM",
+          "close": "4:00 PM"
+        },
+        "tuesday": {
+          "open": "7:30 AM",
+          "close": "3:00 PM"
+        },
+        "wednesday": {
+          "open": "7:30 AM",
+          "close": "3:00 PM"
+        },
+        "thursday": {
+          "open": "7:30 AM",
+          "close": "3:00 PM"
+        },
+        "friday": {
+          "open": "7:30 AM",
+          "close": "3:00 PM"
+        },
+        "saturday": {
+          "open": "10:00 AM",
+          "close": "3:00 PM"
+        },
+        "sunday": {
+          "open": "10:00 AM",
+          "close": "3:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.402946,
+        37.7759409
+      ]
+    },
+    {
+      "name": "Mission Blue",
+      "address": "144 Leland Ave, San Francisco, CA",
+      "hours": "Mon: 7am - 3pm, Tue: 7am - 3pm, Wed: 7am - 3pm, Thu: 7am - 3pm, Fri: 7am - 3pm, Sat: 7am - 3pm, Sun: 8am - 3pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7am",
+          "close": "3pm"
+        },
+        "tuesday": {
+          "open": "7am",
+          "close": "3pm"
+        },
+        "wednesday": {
+          "open": "7am",
+          "close": "3pm"
+        },
+        "thursday": {
+          "open": "7am",
+          "close": "3pm"
+        },
+        "friday": {
+          "open": "7am",
+          "close": "3pm"
+        },
+        "saturday": {
+          "open": "7am",
+          "close": "3pm"
+        },
+        "sunday": {
+          "open": "8am",
+          "close": "3pm"
+        }
+      },
+      "coordinates": [
+        -122.4062629,
+        37.7124083
+      ]
+    },
+    {
+      "name": "Finjan Qahwa",
+      "address": "3188 Mission St, San Francisco, CA",
+      "hours": "Mon-Sun: N/A - N/A",
+      "weekly_hours": {
+        "monday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "tuesday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "wednesday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "thursday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "friday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "saturday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "sunday": {
+          "open": "N/A",
+          "close": "N/A"
+        }
+      },
+      "coordinates": [
+        -122.4198427,
+        37.7459788
+      ]
+    },
+    {
+      "name": "Better Half Coffee",
+      "address": "1448 Pacific Ave, San Francisco, CA",
+      "hours": "Mon: 8am - 3pm, Tue: 8am - 10pm, Wed: 8am - 10pm, Thu: 8am - 10pm, Fri: 8am - 11pm, Sat: 8am - 11pm, Sun: 8am - 8pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "8am",
+          "close": "3pm"
+        },
+        "tuesday": {
+          "open": "8am",
+          "close": "10pm"
+        },
+        "wednesday": {
+          "open": "8am",
+          "close": "10pm"
+        },
+        "thursday": {
+          "open": "8am",
+          "close": "10pm"
+        },
+        "friday": {
+          "open": "8am",
+          "close": "11pm"
+        },
+        "saturday": {
+          "open": "8am",
+          "close": "11pm"
+        },
+        "sunday": {
+          "open": "8am",
+          "close": "8pm"
+        }
+      },
+      "coordinates": [
+        -122.4190639,
+        37.7955225
+      ]
+    },
+    {
+      "name": "Doppio Coffee & Brunch",
+      "address": "1551 Mission St, San Francisco, CA",
+      "hours": "Mon-Fri: 6:30AM - 5PM, Sat-Sun: 8AM - 5PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "6:30AM",
+          "close": "5PM"
+        },
+        "tuesday": {
+          "open": "6:30AM",
+          "close": "5PM"
+        },
+        "wednesday": {
+          "open": "6:30AM",
+          "close": "5PM"
+        },
+        "thursday": {
+          "open": "6:30AM",
+          "close": "5PM"
+        },
+        "friday": {
+          "open": "6:30AM",
+          "close": "5PM"
+        },
+        "saturday": {
+          "open": "8AM",
+          "close": "5PM"
+        },
+        "sunday": {
+          "open": "8AM",
+          "close": "5PM"
+        }
+      },
+      "coordinates": [
+        -122.418066,
+        37.773317
+      ]
+    },
+    {
+      "name": "Deli Shack",
+      "address": "452 Larkin St, San Francisco, CA",
+      "hours": "Mon-Fri: 7:00 AM - 9:00 PM, Sat-Sun: 9:00 AM - 8:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 AM",
+          "close": "9:00 PM"
+        },
+        "tuesday": {
+          "open": "7:00 AM",
+          "close": "9:00 PM"
+        },
+        "wednesday": {
+          "open": "7:00 AM",
+          "close": "9:00 PM"
+        },
+        "thursday": {
+          "open": "7:00 AM",
+          "close": "9:00 PM"
+        },
+        "friday": {
+          "open": "7:00 AM",
+          "close": "9:00 PM"
+        },
+        "saturday": {
+          "open": "9:00 AM",
+          "close": "8:00 PM"
+        },
+        "sunday": {
+          "open": "9:00 AM",
+          "close": "8:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.4171113,
+        37.7822193
+      ]
+    },
+    {
+      "name": "AP'S CAFE",
+      "address": "4108 24th St, San Francisco, CA",
+      "hours": "Mon-Sun: 9:00 am - 3:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "9:00 am",
+          "close": "3:00 pm"
+        },
+        "tuesday": {
+          "open": "9:00 am",
+          "close": "3:00 pm"
+        },
+        "wednesday": {
+          "open": "9:00 am",
+          "close": "3:00 pm"
+        },
+        "thursday": {
+          "open": "9:00 am",
+          "close": "3:00 pm"
+        },
+        "friday": {
+          "open": "9:00 am",
+          "close": "3:00 pm"
+        },
+        "saturday": {
+          "open": "9:00 am",
+          "close": "3:00 pm"
+        },
+        "sunday": {
+          "open": "9:00 am",
+          "close": "3:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.434409,
+        37.7513645
+      ]
+    },
+    {
+      "name": "Sweet Glory on Inner Sunset",
+      "address": "1336 9th Ave, San Francisco, CA",
+      "hours": "Mon-Sun: 11:00 am - 6:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "11:00 am",
+          "close": "6:00 pm"
+        },
+        "tuesday": {
+          "open": "11:00 am",
+          "close": "6:00 pm"
+        },
+        "wednesday": {
+          "open": "11:00 am",
+          "close": "6:00 pm"
+        },
+        "thursday": {
+          "open": "11:00 am",
+          "close": "6:00 pm"
+        },
+        "friday": {
+          "open": "11:00 am",
+          "close": "6:00 pm"
+        },
+        "saturday": {
+          "open": "11:00 am",
+          "close": "6:00 pm"
+        },
+        "sunday": {
+          "open": "11:00 am",
+          "close": "6:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.4660384,
+        37.7633664
+      ]
+    },
+    {
+      "name": "The Butterfly Joint and Café",
+      "address": "4411 Cabrillo St, San Francisco, CA",
+      "hours": "Mon-Fri: 7:15am - 1:30pm, Sat-Sun: 8:00am - 1:30pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:15am",
+          "close": "1:30pm"
+        },
+        "tuesday": {
+          "open": "7:15am",
+          "close": "1:30pm"
+        },
+        "wednesday": {
+          "open": "7:15am",
+          "close": "1:30pm"
+        },
+        "thursday": {
+          "open": "7:15am",
+          "close": "1:30pm"
+        },
+        "friday": {
+          "open": "7:15am",
+          "close": "1:30pm"
+        },
+        "saturday": {
+          "open": "8:00am",
+          "close": "1:30pm"
+        },
+        "sunday": {
+          "open": "8:00am",
+          "close": "1:30pm"
+        }
+      },
+      "coordinates": [
+        -122.5060427,
+        37.7732472
+      ]
+    },
+    {
+      "name": "Cable Car CoffeeSF",
+      "address": "902 Market St, San Francisco, CA",
+      "hours": "Mon: 8:00 - 16:30, Tue: 6:00 - 16:30, Wed: 6:00 - 16:30, Thu: 6:00 - 16:30, Fri: 6:00 - 16:30, Sat: 4:30 - 16:30, Sun: 7:30 - 16:30",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00",
+          "close": "16:30"
+        },
+        "tuesday": {
+          "open": "6:00",
+          "close": "16:30"
+        },
+        "wednesday": {
+          "open": "6:00",
+          "close": "16:30"
+        },
+        "thursday": {
+          "open": "6:00",
+          "close": "16:30"
+        },
+        "friday": {
+          "open": "6:00",
+          "close": "16:30"
+        },
+        "saturday": {
+          "open": "4:30",
+          "close": "16:30"
+        },
+        "sunday": {
+          "open": "7:30",
+          "close": "16:30"
+        }
+      },
+      "coordinates": [
+        -122.4080656,
+        37.7837943
+      ]
+    },
+    {
+      "name": "Luna's Coffee House",
+      "address": "1101 Potrero Ave, San Francisco, CA",
+      "hours": "Mon: 7:00 AM - 2:00 PM, Tue: 7:00 AM - 2:00 PM, Wed: 7:00 AM - 2:30 PM, Thu: 7:00 AM - 2:30 PM, Fri: 7:00 AM - 2:30 PM, Sat: closed - , Sun: closed - ",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 AM",
+          "close": "2:00 PM"
+        },
+        "tuesday": {
+          "open": "7:00 AM",
+          "close": "2:00 PM"
+        },
+        "wednesday": {
+          "open": "7:00 AM",
+          "close": "2:30 PM"
+        },
+        "thursday": {
+          "open": "7:00 AM",
+          "close": "2:30 PM"
+        },
+        "friday": {
+          "open": "7:00 AM",
+          "close": "2:30 PM"
+        },
+        "saturday": {
+          "open": "closed",
+          "close": ""
+        },
+        "sunday": {
+          "open": "closed",
+          "close": ""
+        }
+      },
+      "coordinates": [
+        -122.406338,
+        37.75416
+      ]
+    },
+    {
+      "name": "Mellis Cafe",
+      "address": "154 Ellis St, San Francisco, CA",
+      "hours": "Mon-Sun: N/A - N/A",
+      "weekly_hours": {
+        "monday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "tuesday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "wednesday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "thursday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "friday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "saturday": {
+          "open": "N/A",
+          "close": "N/A"
+        },
+        "sunday": {
+          "open": "N/A",
+          "close": "N/A"
+        }
+      },
+      "coordinates": [
+        -122.4090736,
+        37.7856754
+      ]
+    },
+    {
+      "name": "MJ's Cafe",
+      "address": "969 Hyde St, San Francisco, CA",
+      "hours": "Mon-Fri: 6:30 AM - 3:00 PM, Sat-Sun: 7:30 AM - 3:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "tuesday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "wednesday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "thursday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "friday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "saturday": {
+          "open": "7:30 AM",
+          "close": "3:00 PM"
+        },
+        "sunday": {
+          "open": "7:30 AM",
+          "close": "3:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.417326,
+        37.7899202
+      ]
+    },
+    {
+      "name": "Neighbor Bakehouse",
+      "address": "2343 3rd St UNIT 100, San Francisco, CA",
+      "hours": "Mon: Closed - , Tue: 8:00 AM - 3:00 PM, Wed: 8:00 AM - 3:00 PM, Thu: 8:00 AM - 3:00 PM, Fri: 8:00 AM - 3:00 PM, Sat: 8:00 AM - 3:00 PM, Sun: 8:00 AM - 3:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "Closed",
+          "close": ""
+        },
+        "tuesday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "wednesday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "thursday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "friday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "saturday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "sunday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        }
+      }
+    },
+    {
+      "name": "Newkirk's",
+      "address": "1002 Potrero Ave, San Francisco, CA",
+      "hours": "Mon: 8:00 am - 3:00 pm, Tue: 8:00 am - 3:00 pm, Wed: 8:00 am - 3:00 pm, Thu: 8:00 am - 3:00 pm, Fri: 8:00 am - 3:00 pm, Sat: 9:00 am - 2:00 pm, Sun: 9:00 am - 1:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00 am",
+          "close": "3:00 pm"
+        },
+        "tuesday": {
+          "open": "8:00 am",
+          "close": "3:00 pm"
+        },
+        "wednesday": {
+          "open": "8:00 am",
+          "close": "3:00 pm"
+        },
+        "thursday": {
+          "open": "8:00 am",
+          "close": "3:00 pm"
+        },
+        "friday": {
+          "open": "8:00 am",
+          "close": "3:00 pm"
+        },
+        "saturday": {
+          "open": "9:00 am",
+          "close": "2:00 pm"
+        },
+        "sunday": {
+          "open": "9:00 am",
+          "close": "1:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.4068924,
+        37.7559699
+      ]
+    },
+    {
+      "name": "Paper Son Coffee - Dogpatch",
+      "address": "2343 3rd St UNIT 100, San Francisco, CA",
+      "hours": "Mon: Closed - , Tue: 8:00 am - 2:00 pm, Wed: 8:00 am - 2:00 pm, Thu: 8:00 am - 2:00 pm, Fri: 8:00 am - 2:00 pm, Sat: 8:00 am - 2:00 pm, Sun: 8:00 am - 2:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "Closed",
+          "close": ""
+        },
+        "tuesday": {
+          "open": "8:00 am",
+          "close": "2:00 pm"
+        },
+        "wednesday": {
+          "open": "8:00 am",
+          "close": "2:00 pm"
+        },
+        "thursday": {
+          "open": "8:00 am",
+          "close": "2:00 pm"
+        },
+        "friday": {
+          "open": "8:00 am",
+          "close": "2:00 pm"
+        },
+        "saturday": {
+          "open": "8:00 am",
+          "close": "2:00 pm"
+        },
+        "sunday": {
+          "open": "8:00 am",
+          "close": "2:00 pm"
+        }
+      }
+    },
+    {
+      "name": "The Mellow",
+      "address": "1401 Haight St, San Francisco, CA",
+      "hours": "Mon: 11am - 7pm, Tue: 11am - 7pm, Wed: 11am - 7pm, Thu: 11am - 7pm, Fri: 11am - 7pm, Sat: 11am - 7pm, Sun: 11am - 6pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "11am",
+          "close": "7pm"
+        },
+        "tuesday": {
+          "open": "11am",
+          "close": "7pm"
+        },
+        "wednesday": {
+          "open": "11am",
+          "close": "7pm"
+        },
+        "thursday": {
+          "open": "11am",
+          "close": "7pm"
+        },
+        "friday": {
+          "open": "11am",
+          "close": "7pm"
+        },
+        "saturday": {
+          "open": "11am",
+          "close": "7pm"
+        },
+        "sunday": {
+          "open": "11am",
+          "close": "6pm"
+        }
+      },
+      "coordinates": [
+        -122.4456552,
+        37.7700241
+      ]
+    },
+    {
+      "name": "Alushe coffee bar",
+      "address": "4201 Geary Blvd, San Francisco, CA",
+      "hours": "Mon-Fri: 7 am - 3 pm, Sat-Sun: 9 am - 3 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7 am",
+          "close": "3 pm"
+        },
+        "tuesday": {
+          "open": "7 am",
+          "close": "3 pm"
+        },
+        "wednesday": {
+          "open": "7 am",
+          "close": "3 pm"
+        },
+        "thursday": {
+          "open": "7 am",
+          "close": "3 pm"
+        },
+        "friday": {
+          "open": "7 am",
+          "close": "3 pm"
+        },
+        "saturday": {
+          "open": "9 am",
+          "close": "3 pm"
+        },
+        "sunday": {
+          "open": "9 am",
+          "close": "3 pm"
+        }
+      },
+      "coordinates": [
+        -122.4644592,
+        37.780834
+      ]
+    },
+    {
+      "name": "The Interval at Long Now",
+      "address": "Center Building A, 2 Marina Blvd, San Francisco, CA",
+      "hours": "Mon-Fri: 10:00 AM - 11:00 PM, Sat-Sun: 3:00 PM - 11:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "10:00 AM",
+          "close": "11:00 PM"
+        },
+        "tuesday": {
+          "open": "10:00 AM",
+          "close": "11:00 PM"
+        },
+        "wednesday": {
+          "open": "10:00 AM",
+          "close": "11:00 PM"
+        },
+        "thursday": {
+          "open": "10:00 AM",
+          "close": "11:00 PM"
+        },
+        "friday": {
+          "open": "10:00 AM",
+          "close": "11:00 PM"
+        },
+        "saturday": {
+          "open": "3:00 PM",
+          "close": "11:00 PM"
+        },
+        "sunday": {
+          "open": "3:00 PM",
+          "close": "11:00 PM"
+        }
+      }
+    },
+    {
+      "name": "Vasquez Coffee",
+      "address": "50 Mendell St STE 1, San Francisco, CA",
+      "hours": "Mon-Sun: 6:30am - 2:30pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "6:30am",
+          "close": "2:30pm"
+        },
+        "tuesday": {
+          "open": "6:30am",
+          "close": "2:30pm"
+        },
+        "wednesday": {
+          "open": "6:30am",
+          "close": "2:30pm"
+        },
+        "thursday": {
+          "open": "6:30am",
+          "close": "2:30pm"
+        },
+        "friday": {
+          "open": "6:30am",
+          "close": "2:30pm"
+        },
+        "saturday": {
+          "open": "6:30am",
+          "close": "2:30pm"
+        },
+        "sunday": {
+          "open": "6:30am",
+          "close": "2:30pm"
+        }
+      }
+    },
+    {
+      "name": "Café Atlas",
+      "address": "200 Pine St Suite 120, San Francisco, CA",
+      "hours": "Mon-Fri: 6:30 AM - 3:00 PM, Sat-Sun: Closed - Closed",
+      "weekly_hours": {
+        "monday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "tuesday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "wednesday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "thursday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "friday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "saturday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": "Closed"
+        }
+      }
+    },
+    {
+      "name": "Café Thuma",
+      "address": "2197 Chestnut St Suite B, San Francisco, CA",
+      "hours": "Mon: 10am - 6pm, Tue: 10am - 6pm, Wed: 10am - 6pm, Thu: 10am - 6pm, Fri: 10am - 6pm, Sat: 9am - 7pm, Sun: 9am - 6pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "10am",
+          "close": "6pm"
+        },
+        "tuesday": {
+          "open": "10am",
+          "close": "6pm"
+        },
+        "wednesday": {
+          "open": "10am",
+          "close": "6pm"
+        },
+        "thursday": {
+          "open": "10am",
+          "close": "6pm"
+        },
+        "friday": {
+          "open": "10am",
+          "close": "6pm"
+        },
+        "saturday": {
+          "open": "9am",
+          "close": "7pm"
+        },
+        "sunday": {
+          "open": "9am",
+          "close": "6pm"
+        }
+      }
+    },
+    {
+      "name": "Cafe Alma",
+      "address": "888 Innes Ave, San Francisco, CA",
+      "hours": "Mon: Closed - Closed, Tue: 8:00 AM - 2:00 PM, Wed: 8:00 AM - 2:00 PM, Thu: Closed - Closed, Fri: Closed - Closed, Sat: Closed - Closed, Sun: Closed - Closed",
+      "weekly_hours": {
+        "monday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "tuesday": {
+          "open": "8:00 AM",
+          "close": "2:00 PM"
+        },
+        "wednesday": {
+          "open": "8:00 AM",
+          "close": "2:00 PM"
+        },
+        "thursday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "friday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "saturday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": "Closed"
+        }
+      },
+      "coordinates": [
+        -122.3753806,
+        37.7320489
+      ]
+    },
+    {
+      "name": "The Coffee Movement",
+      "address": "1737 Balboa St, San Francisco, CA",
+      "hours": "Mon: 7:00 am - 2:00 pm, Tue: 7:00 am - 2:00 pm, Wed: 7:00 am - 2:00 pm, Thu: 7:00 am - 2:00 pm, Fri: 7:00 am - 4:00 pm, Sat: 7:00 am - 4:00 pm, Sun: 7:00 am - 4:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 am",
+          "close": "2:00 pm"
+        },
+        "tuesday": {
+          "open": "7:00 am",
+          "close": "2:00 pm"
+        },
+        "wednesday": {
+          "open": "7:00 am",
+          "close": "2:00 pm"
+        },
+        "thursday": {
+          "open": "7:00 am",
+          "close": "2:00 pm"
+        },
+        "friday": {
+          "open": "7:00 am",
+          "close": "4:00 pm"
+        },
+        "saturday": {
+          "open": "7:00 am",
+          "close": "4:00 pm"
+        },
+        "sunday": {
+          "open": "7:00 am",
+          "close": "4:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.4777614,
+        37.7764741
+      ]
+    },
+    {
+      "name": "Cafe Buenos Aires SF",
+      "address": "590 3rd St, San Francisco, CA",
+      "hours": "Mon-Fri: 7:30 am - 5:00 pm, Sat-Sun: 9:00 am - 3:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:30 am",
+          "close": "5:00 pm"
+        },
+        "tuesday": {
+          "open": "7:30 am",
+          "close": "5:00 pm"
+        },
+        "wednesday": {
+          "open": "7:30 am",
+          "close": "5:00 pm"
+        },
+        "thursday": {
+          "open": "7:30 am",
+          "close": "5:00 pm"
+        },
+        "friday": {
+          "open": "7:30 am",
+          "close": "5:00 pm"
+        },
+        "saturday": {
+          "open": "9:00 am",
+          "close": "3:00 pm"
+        },
+        "sunday": {
+          "open": "9:00 am",
+          "close": "3:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.3946256,
+        37.780165
+      ]
+    },
+    {
+      "name": "Cafe du Soleil",
+      "address": "345 3rd St, San Francisco, CA",
+      "hours": "Mon-Fri: 10:30 am - 2:30 pm, Sat-Sun: Closed - ",
+      "weekly_hours": {
+        "monday": {
+          "open": "10:30 am",
+          "close": "2:30 pm"
+        },
+        "tuesday": {
+          "open": "10:30 am",
+          "close": "2:30 pm"
+        },
+        "wednesday": {
+          "open": "10:30 am",
+          "close": "2:30 pm"
+        },
+        "thursday": {
+          "open": "10:30 am",
+          "close": "2:30 pm"
+        },
+        "friday": {
+          "open": "10:30 am",
+          "close": "2:30 pm"
+        },
+        "saturday": {
+          "open": "Closed",
+          "close": ""
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": ""
+        }
+      },
+      "coordinates": [
+        -122.3979963,
+        37.783221
+      ]
+    },
+    {
+      "name": "Cafe Gonzalez",
+      "address": "1600 Guerrero St, San Francisco, CA",
+      "hours": "Mon: 6:00 am - 4:00 pm, Tue: 6:00 am - 4:00 pm, Wed: 6:00 am - 4:00 pm, Thu: 6:00 am - 4:00 pm, Fri: 6:00 am - 4:00 pm, Sat: 6:00 am - 4:00 pm, Sun: 7:00 am - 4:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "6:00 am",
+          "close": "4:00 pm"
+        },
+        "tuesday": {
+          "open": "6:00 am",
+          "close": "4:00 pm"
+        },
+        "wednesday": {
+          "open": "6:00 am",
+          "close": "4:00 pm"
+        },
+        "thursday": {
+          "open": "6:00 am",
+          "close": "4:00 pm"
+        },
+        "friday": {
+          "open": "6:00 am",
+          "close": "4:00 pm"
+        },
+        "saturday": {
+          "open": "6:00 am",
+          "close": "4:00 pm"
+        },
+        "sunday": {
+          "open": "7:00 am",
+          "close": "4:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.4224456,
+        37.7460615
+      ]
+    },
+    {
+      "name": "Universal Breakfast & Lunch",
+      "address": "1217 Geneva Ave, San Francisco, CA",
+      "hours": "Mon: 5:30 AM - 2:00 PM, Tue: 5:30 AM - 2:00 PM, Wed: 5:30 AM - 2:00 PM, Thu: 5:30 AM - 2:00 PM, Fri: 5:30 AM - 2:00 PM, Sat: 6:00 AM - 2:00 PM, Sun: 5:30 AM - 2:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "5:30 AM",
+          "close": "2:00 PM"
+        },
+        "tuesday": {
+          "open": "5:30 AM",
+          "close": "2:00 PM"
+        },
+        "wednesday": {
+          "open": "5:30 AM",
+          "close": "2:00 PM"
+        },
+        "thursday": {
+          "open": "5:30 AM",
+          "close": "2:00 PM"
+        },
+        "friday": {
+          "open": "5:30 AM",
+          "close": "2:00 PM"
+        },
+        "saturday": {
+          "open": "6:00 AM",
+          "close": "2:00 PM"
+        },
+        "sunday": {
+          "open": "5:30 AM",
+          "close": "2:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.4356916,
+        37.7142654
+      ]
+    },
+    {
+      "name": "The Art Bistro",
+      "address": "2960 Clement St, San Francisco, CA",
+      "hours": "Mon: 8am - 3pm, Tue: 7am - 6pm, Wed: 7am - 6pm, Thu: 7am - 6pm, Fri: 7am - 6pm, Sat: 7am - 6pm, Sun: 7am - 6pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "8am",
+          "close": "3pm"
+        },
+        "tuesday": {
+          "open": "7am",
+          "close": "6pm"
+        },
+        "wednesday": {
+          "open": "7am",
+          "close": "6pm"
+        },
+        "thursday": {
+          "open": "7am",
+          "close": "6pm"
+        },
+        "friday": {
+          "open": "7am",
+          "close": "6pm"
+        },
+        "saturday": {
+          "open": "7am",
+          "close": "6pm"
+        },
+        "sunday": {
+          "open": "7am",
+          "close": "6pm"
+        }
+      },
+      "coordinates": [
+        -122.4911631,
+        37.7818774
+      ]
+    },
+    {
+      "name": "Cafe Suspiro",
+      "address": "1246 Folsom St, San Francisco, CA",
+      "hours": "Mon: 8:00 am - 4:00 pm, Tue: 8:00 am - 4:00 pm, Wed: 8:00 am - 4:00 pm, Thu: 8:00 am - 4:00 pm, Fri: 8:00 am - 3:00 pm, Sat: 9:00 am - 3:00 pm, Sun: Closed - Closed",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00 am",
+          "close": "4:00 pm"
+        },
+        "tuesday": {
+          "open": "8:00 am",
+          "close": "4:00 pm"
+        },
+        "wednesday": {
+          "open": "8:00 am",
+          "close": "4:00 pm"
+        },
+        "thursday": {
+          "open": "8:00 am",
+          "close": "4:00 pm"
+        },
+        "friday": {
+          "open": "8:00 am",
+          "close": "3:00 pm"
+        },
+        "saturday": {
+          "open": "9:00 am",
+          "close": "3:00 pm"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": "Closed"
+        }
+      },
+      "coordinates": [
+        -122.4109916,
+        37.7745859
+      ]
+    },
+    {
+      "name": "Charm Coffee",
+      "address": "1939 Ocean Ave, San Francisco, CA",
+      "hours": "Mon: 8 am - 4 pm, Tue: 8 am - 4 pm, Wed: 8 am - 4 pm, Thu: 8 am - 4 pm, Fri: 8 am - 4 pm, Sat: 8 am - 4 pm, Sun: 8 am - 3 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "8 am",
+          "close": "4 pm"
+        },
+        "tuesday": {
+          "open": "8 am",
+          "close": "4 pm"
+        },
+        "wednesday": {
+          "open": "8 am",
+          "close": "4 pm"
+        },
+        "thursday": {
+          "open": "8 am",
+          "close": "4 pm"
+        },
+        "friday": {
+          "open": "8 am",
+          "close": "4 pm"
+        },
+        "saturday": {
+          "open": "8 am",
+          "close": "4 pm"
+        },
+        "sunday": {
+          "open": "8 am",
+          "close": "3 pm"
+        }
+      },
+      "coordinates": [
+        -122.4632424,
+        37.7254254
+      ]
+    },
+    {
+      "name": "Cheminé",
+      "address": "3030 Fillmore St, San Francisco, CA",
+      "hours": "Mon: 8:00 AM - 5:00 PM, Tue: 8:00 AM - 5:00 PM, Wed: 8:00 AM - 5:00 PM, Thu: 8:00 AM - 5:00 PM, Fri: 8:00 AM - 5:00 PM, Sat: 8:00 AM - 6:00 PM, Sun: Closed - Closed",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00 AM",
+          "close": "5:00 PM"
+        },
+        "tuesday": {
+          "open": "8:00 AM",
+          "close": "5:00 PM"
+        },
+        "wednesday": {
+          "open": "8:00 AM",
+          "close": "5:00 PM"
+        },
+        "thursday": {
+          "open": "8:00 AM",
+          "close": "5:00 PM"
+        },
+        "friday": {
+          "open": "8:00 AM",
+          "close": "5:00 PM"
+        },
+        "saturday": {
+          "open": "8:00 AM",
+          "close": "6:00 PM"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": "Closed"
+        }
+      },
+      "coordinates": [
+        -122.4353724,
+        37.7975407
+      ]
+    },
+    {
+      "name": "Coffee Bar-Kearny",
+      "address": "433 Kearny St, San Francisco, CA",
+      "hours": "Mon: 7:00 am - 12:00 pm, Tue: 7:00 am - 2:30 pm, Wed: 7:00 am - 2:30 pm, Thu: 7:00 am - 2:30 pm, Fri: 7:00 am - 12:00 pm, Sat: Closed - Closed, Sun: Closed - Closed",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 am",
+          "close": "12:00 pm"
+        },
+        "tuesday": {
+          "open": "7:00 am",
+          "close": "2:30 pm"
+        },
+        "wednesday": {
+          "open": "7:00 am",
+          "close": "2:30 pm"
+        },
+        "thursday": {
+          "open": "7:00 am",
+          "close": "2:30 pm"
+        },
+        "friday": {
+          "open": "7:00 am",
+          "close": "12:00 pm"
+        },
+        "saturday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": "Closed"
+        }
+      },
+      "coordinates": [
+        -122.4045313,
+        37.7918043
+      ]
+    },
+    {
+      "name": "Tallio's",
+      "address": "762 Fulton St, San Francisco, CA",
+      "hours": "Mon-Fri: 8:00 AM - 3:30 PM, Sat-Sun: Closed - Closed",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00 AM",
+          "close": "3:30 PM"
+        },
+        "tuesday": {
+          "open": "8:00 AM",
+          "close": "3:30 PM"
+        },
+        "wednesday": {
+          "open": "8:00 AM",
+          "close": "3:30 PM"
+        },
+        "thursday": {
+          "open": "8:00 AM",
+          "close": "3:30 PM"
+        },
+        "friday": {
+          "open": "8:00 AM",
+          "close": "3:30 PM"
+        },
+        "saturday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": "Closed"
+        }
+      },
+      "coordinates": [
+        -122.4292739,
+        37.7782857
+      ]
+    },
+    {
+      "name": "Cozy Cafe",
+      "address": "965 Sutter St C, San Francisco, CA",
+      "hours": "Mon-Sun: 7 am - 2 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7 am",
+          "close": "2 pm"
+        },
+        "tuesday": {
+          "open": "7 am",
+          "close": "2 pm"
+        },
+        "wednesday": {
+          "open": "7 am",
+          "close": "2 pm"
+        },
+        "thursday": {
+          "open": "7 am",
+          "close": "2 pm"
+        },
+        "friday": {
+          "open": "7 am",
+          "close": "2 pm"
+        },
+        "saturday": {
+          "open": "7 am",
+          "close": "2 pm"
+        },
+        "sunday": {
+          "open": "7 am",
+          "close": "2 pm"
+        }
+      }
+    },
+    {
+      "name": "Crostini & Java",
+      "address": "899 Hyde St, San Francisco, CA",
+      "hours": "Mon-Fri: 6:30 AM - 3:00 PM, Sat-Sun: 7:30 AM - 3:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "tuesday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "wednesday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "thursday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "friday": {
+          "open": "6:30 AM",
+          "close": "3:00 PM"
+        },
+        "saturday": {
+          "open": "7:30 AM",
+          "close": "3:00 PM"
+        },
+        "sunday": {
+          "open": "7:30 AM",
+          "close": "3:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.4171439,
+        37.7889121
+      ]
+    },
+    {
+      "name": "Cup Café",
+      "address": "6 Monterey Blvd, San Francisco, CA",
+      "hours": "Mon-Sun: 7:00 am - 3:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        },
+        "tuesday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        },
+        "wednesday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        },
+        "thursday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        },
+        "friday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        },
+        "saturday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        },
+        "sunday": {
+          "open": "7:00 am",
+          "close": "3:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.4368586,
+        37.7314527
+      ]
+    },
+    {
+      "name": "Sutter Street Cafe",
+      "address": "450 Sutter St #7, San Francisco, CA",
+      "hours": "Mon: 8:00 AM - 4:00 PM, Tue: 8:00 AM - 4:00 PM, Wed: 8:00 AM - 4:00 PM, Thu: 8:00 AM - 4:00 PM, Fri: 8:00 AM - 2:00 PM, Sat: Closed - Closed, Sun: Closed - Closed",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00 AM",
+          "close": "4:00 PM"
+        },
+        "tuesday": {
+          "open": "8:00 AM",
+          "close": "4:00 PM"
+        },
+        "wednesday": {
+          "open": "8:00 AM",
+          "close": "4:00 PM"
+        },
+        "thursday": {
+          "open": "8:00 AM",
+          "close": "4:00 PM"
+        },
+        "friday": {
+          "open": "8:00 AM",
+          "close": "2:00 PM"
+        },
+        "saturday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": "Closed"
+        }
+      },
+      "coordinates": [
+        -122.4078004,
+        37.7895248
+      ]
+    },
+    {
+      "name": "Danny's Coffee Shop",
+      "address": "2798 San Bruno Ave, San Francisco, CA",
+      "hours": "Mon-Sun: 7 am - 3 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7 am",
+          "close": "3 pm"
+        },
+        "tuesday": {
+          "open": "7 am",
+          "close": "3 pm"
+        },
+        "wednesday": {
+          "open": "7 am",
+          "close": "3 pm"
+        },
+        "thursday": {
+          "open": "7 am",
+          "close": "3 pm"
+        },
+        "friday": {
+          "open": "7 am",
+          "close": "3 pm"
+        },
+        "saturday": {
+          "open": "7 am",
+          "close": "3 pm"
+        },
+        "sunday": {
+          "open": "7 am",
+          "close": "3 pm"
+        }
+      },
+      "coordinates": [
+        -122.4033928,
+        37.7264866
+      ]
+    },
+    {
+      "name": "Diamond Coffee N Pastry",
+      "address": "6909 Geary Blvd, San Francisco, CA",
+      "hours": "Mon-Fri: 8:30am - 3:00pm, Sat-Sun: 8:30am - 4:00pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:30am",
+          "close": "3:00pm"
+        },
+        "tuesday": {
+          "open": "8:30am",
+          "close": "3:00pm"
+        },
+        "wednesday": {
+          "open": "8:30am",
+          "close": "3:00pm"
+        },
+        "thursday": {
+          "open": "8:30am",
+          "close": "3:00pm"
+        },
+        "friday": {
+          "open": "8:30am",
+          "close": "3:00pm"
+        },
+        "saturday": {
+          "open": "8:30am",
+          "close": "4:00pm"
+        },
+        "sunday": {
+          "open": "8:30am",
+          "close": "4:00pm"
+        }
+      },
+      "coordinates": [
+        -122.4937216,
+        37.7795035
+      ]
+    },
+    {
+      "name": "El Cafe",
+      "address": "1400 Taraval St, San Francisco, CA",
+      "hours": "Mon-Sun: 6:00 AM - 5:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "6:00 AM",
+          "close": "5:00 PM"
+        },
+        "tuesday": {
+          "open": "6:00 AM",
+          "close": "5:00 PM"
+        },
+        "wednesday": {
+          "open": "6:00 AM",
+          "close": "5:00 PM"
+        },
+        "thursday": {
+          "open": "6:00 AM",
+          "close": "5:00 PM"
+        },
+        "friday": {
+          "open": "6:00 AM",
+          "close": "5:00 PM"
+        },
+        "saturday": {
+          "open": "6:00 AM",
+          "close": "5:00 PM"
+        },
+        "sunday": {
+          "open": "6:00 AM",
+          "close": "5:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.481211,
+        37.742937
+      ]
+    },
+    {
+      "name": "Fresh Brew Coffee",
+      "address": "882 Bush St, San Francisco, CA",
+      "hours": "Mon: 7:00 am - 5:00 pm, Tue: 7:00 am - 5:00 pm, Wed: 9:00 am - 5:00 pm, Thu: 7:00 am - 5:00 pm, Fri: 7:00 am - 5:00 pm, Sat: 8:00 am - 5:00 pm, Sun: 8:00 am - 5:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 am",
+          "close": "5:00 pm"
+        },
+        "tuesday": {
+          "open": "7:00 am",
+          "close": "5:00 pm"
+        },
+        "wednesday": {
+          "open": "9:00 am",
+          "close": "5:00 pm"
+        },
+        "thursday": {
+          "open": "7:00 am",
+          "close": "5:00 pm"
+        },
+        "friday": {
+          "open": "7:00 am",
+          "close": "5:00 pm"
+        },
+        "saturday": {
+          "open": "8:00 am",
+          "close": "5:00 pm"
+        },
+        "sunday": {
+          "open": "8:00 am",
+          "close": "5:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.4118038,
+        37.7898887
+      ]
+    },
+    {
+      "name": "AyDea",
+      "address": "5801 Geary Blvd, San Francisco, CA",
+      "hours": "Mon: Closed - , Tue: 11:30 am - 8:00 pm, Wed: 11:30 am - 8:00 pm, Thu: 11:30 am - 8:00 pm, Fri: 11:30 am - 8:00 pm, Sat: 11:30 am - 8:00 pm, Sun: 11:30 am - 8:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "Closed",
+          "close": ""
+        },
+        "tuesday": {
+          "open": "11:30 am",
+          "close": "8:00 pm"
+        },
+        "wednesday": {
+          "open": "11:30 am",
+          "close": "8:00 pm"
+        },
+        "thursday": {
+          "open": "11:30 am",
+          "close": "8:00 pm"
+        },
+        "friday": {
+          "open": "11:30 am",
+          "close": "8:00 pm"
+        },
+        "saturday": {
+          "open": "11:30 am",
+          "close": "8:00 pm"
+        },
+        "sunday": {
+          "open": "11:30 am",
+          "close": "8:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.481678,
+        37.7800429
+      ]
+    },
+    {
+      "name": "Golden Goat Coffee",
+      "address": "599 3rd St #100, San Francisco, CA",
+      "hours": "Mon: 8am - 3pm, Tue: 8am - 3pm, Wed: 8am - 3pm, Thu: 8am - 3pm, Fri: 8am - 3pm, Sat: 9am - 2pm, Sun: none - none",
+      "weekly_hours": {
+        "monday": {
+          "open": "8am",
+          "close": "3pm"
+        },
+        "tuesday": {
+          "open": "8am",
+          "close": "3pm"
+        },
+        "wednesday": {
+          "open": "8am",
+          "close": "3pm"
+        },
+        "thursday": {
+          "open": "8am",
+          "close": "3pm"
+        },
+        "friday": {
+          "open": "8am",
+          "close": "3pm"
+        },
+        "saturday": {
+          "open": "9am",
+          "close": "2pm"
+        },
+        "sunday": {
+          "open": "none",
+          "close": "none"
+        }
+      }
+    },
+    {
+      "name": "Hideaway Cafe",
+      "address": "850 Jones St, San Francisco, CA",
+      "hours": "Mon-Sun: 8:00 AM - 8:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "tuesday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "wednesday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "thursday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "friday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "saturday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "sunday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.4135827,
+        37.789315
+      ]
+    },
+    {
+      "name": "Ikon Coffee",
+      "address": "1302 22nd St, San Francisco, CA",
+      "hours": "Mon-Sun: 7:00am - 5:00pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00am",
+          "close": "5:00pm"
+        },
+        "tuesday": {
+          "open": "7:00am",
+          "close": "5:00pm"
+        },
+        "wednesday": {
+          "open": "7:00am",
+          "close": "5:00pm"
+        },
+        "thursday": {
+          "open": "7:00am",
+          "close": "5:00pm"
+        },
+        "friday": {
+          "open": "7:00am",
+          "close": "5:00pm"
+        },
+        "saturday": {
+          "open": "7:00am",
+          "close": "5:00pm"
+        },
+        "sunday": {
+          "open": "7:00am",
+          "close": "5:00pm"
+        }
+      },
+      "coordinates": [
+        -122.3942866,
+        37.7576645
+      ]
+    },
+    {
+      "name": "Java Trading Co.",
+      "address": "100 5th St, San Francisco, CA",
+      "hours": "Mon-Fri: 7:30 AM - 5:00 PM, Sat-Sun: Closed - Closed",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:30 AM",
+          "close": "5:00 PM"
+        },
+        "tuesday": {
+          "open": "7:30 AM",
+          "close": "5:00 PM"
+        },
+        "wednesday": {
+          "open": "7:30 AM",
+          "close": "5:00 PM"
+        },
+        "thursday": {
+          "open": "7:30 AM",
+          "close": "5:00 PM"
+        },
+        "friday": {
+          "open": "7:30 AM",
+          "close": "5:00 PM"
+        },
+        "saturday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": "Closed"
+        }
+      },
+      "coordinates": [
+        -122.406443,
+        37.782586
+      ]
+    },
+    {
+      "name": "Jolt N Bolt Bakery & Cafe",
+      "address": "2325 3rd St UNIT 100, San Francisco, CA",
+      "hours": "Mon-Fri: 7:30 AM - 4:30 PM, Sat-Sun: closed - closed",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:30 AM",
+          "close": "4:30 PM"
+        },
+        "tuesday": {
+          "open": "7:30 AM",
+          "close": "4:30 PM"
+        },
+        "wednesday": {
+          "open": "7:30 AM",
+          "close": "4:30 PM"
+        },
+        "thursday": {
+          "open": "7:30 AM",
+          "close": "4:30 PM"
+        },
+        "friday": {
+          "open": "7:30 AM",
+          "close": "4:30 PM"
+        },
+        "saturday": {
+          "open": "closed",
+          "close": "closed"
+        },
+        "sunday": {
+          "open": "closed",
+          "close": "closed"
+        }
+      }
+    },
+    {
+      "name": "screen savor art and coffee",
+      "address": "22 peace plaza #511, San Francisco, CA",
+      "hours": "Mon-Sun: 11:00 am - 5:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "11:00 am",
+          "close": "5:00 pm"
+        },
+        "tuesday": {
+          "open": "11:00 am",
+          "close": "5:00 pm"
+        },
+        "wednesday": {
+          "open": "11:00 am",
+          "close": "5:00 pm"
+        },
+        "thursday": {
+          "open": "11:00 am",
+          "close": "5:00 pm"
+        },
+        "friday": {
+          "open": "11:00 am",
+          "close": "5:00 pm"
+        },
+        "saturday": {
+          "open": "11:00 am",
+          "close": "5:00 pm"
+        },
+        "sunday": {
+          "open": "11:00 am",
+          "close": "5:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.4291636,
+        37.7850966
+      ]
+    },
+    {
+      "name": "Barista Coffee & Brunch",
+      "address": "3313 Sacramento St, San Francisco, CA",
+      "hours": "Mon-Fri: 7:00 am - 5:00 pm, Sat-Sun: 8:00 am - 5:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 am",
+          "close": "5:00 pm"
+        },
+        "tuesday": {
+          "open": "7:00 am",
+          "close": "5:00 pm"
+        },
+        "wednesday": {
+          "open": "7:00 am",
+          "close": "5:00 pm"
+        },
+        "thursday": {
+          "open": "7:00 am",
+          "close": "5:00 pm"
+        },
+        "friday": {
+          "open": "7:00 am",
+          "close": "5:00 pm"
+        },
+        "saturday": {
+          "open": "8:00 am",
+          "close": "5:00 pm"
+        },
+        "sunday": {
+          "open": "8:00 am",
+          "close": "5:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.4472022,
+        37.7880037
+      ]
+    },
+    {
+      "name": "La Copa Loca Gelato Noe Valley",
+      "address": "1504 Church St, San Francisco, CA",
+      "hours": "Mon: 12:00 pm - 9:00 pm, Tue: 12:00 pm - 9:30 pm, Wed: 12:00 pm - 9:30 pm, Thu: 12:00 pm - 9:30 pm, Fri: 12:00 pm - 10:30 pm, Sat: 12:00 pm - 10:30 pm, Sun: 12:00 pm - 9:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "12:00 pm",
+          "close": "9:00 pm"
+        },
+        "tuesday": {
+          "open": "12:00 pm",
+          "close": "9:30 pm"
+        },
+        "wednesday": {
+          "open": "12:00 pm",
+          "close": "9:30 pm"
+        },
+        "thursday": {
+          "open": "12:00 pm",
+          "close": "9:30 pm"
+        },
+        "friday": {
+          "open": "12:00 pm",
+          "close": "10:30 pm"
+        },
+        "saturday": {
+          "open": "12:00 pm",
+          "close": "10:30 pm"
+        },
+        "sunday": {
+          "open": "12:00 pm",
+          "close": "9:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.4272204,
+        37.7466898
+      ]
+    },
+    {
+      "name": "Lucky Coffee",
+      "address": "1001 Potrero Ave, San Francisco, CA",
+      "hours": "Mon-Sun: Unknown - Unknown",
+      "weekly_hours": {
+        "monday": {
+          "open": "Unknown",
+          "close": "Unknown"
+        },
+        "tuesday": {
+          "open": "Unknown",
+          "close": "Unknown"
+        },
+        "wednesday": {
+          "open": "Unknown",
+          "close": "Unknown"
+        },
+        "thursday": {
+          "open": "Unknown",
+          "close": "Unknown"
+        },
+        "friday": {
+          "open": "Unknown",
+          "close": "Unknown"
+        },
+        "saturday": {
+          "open": "Unknown",
+          "close": "Unknown"
+        },
+        "sunday": {
+          "open": "Unknown",
+          "close": "Unknown"
+        }
+      },
+      "coordinates": [
+        -122.4052532,
+        37.7568103
+      ]
+    },
+    {
+      "name": "Beluna Cafe",
+      "address": "1195 Oak St, San Francisco, CA",
+      "hours": "Mon-Sun: 8:00 AM - 3:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "tuesday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "wednesday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "thursday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "friday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "saturday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "sunday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.4388654,
+        37.7728668
+      ]
+    },
+    {
+      "name": "Geary Cafe",
+      "address": "6900 Geary Blvd, San Francisco, CA",
+      "hours": "Mon: 3:30pm - 9:00pm, Tue: 3:30pm - 9:00pm, Wed: 3:30pm - 9:00pm, Thu: 3:30pm - 9:00pm, Fri: 12:00pm - 9:00pm, Sat: 11:30am - 9:00pm, Sun: 11:30am - 9:00pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "3:30pm",
+          "close": "9:00pm"
+        },
+        "tuesday": {
+          "open": "3:30pm",
+          "close": "9:00pm"
+        },
+        "wednesday": {
+          "open": "3:30pm",
+          "close": "9:00pm"
+        },
+        "thursday": {
+          "open": "3:30pm",
+          "close": "9:00pm"
+        },
+        "friday": {
+          "open": "12:00pm",
+          "close": "9:00pm"
+        },
+        "saturday": {
+          "open": "11:30am",
+          "close": "9:00pm"
+        },
+        "sunday": {
+          "open": "11:30am",
+          "close": "9:00pm"
+        }
+      },
+      "coordinates": [
+        -122.4935034,
+        37.7798912
+      ]
+    },
+    {
+      "name": "Cinderella Bakery & Cafe",
+      "address": "436 Balboa St, San Francisco, CA",
+      "hours": "Mon-Sun: 7:00 AM - 7:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:00 AM",
+          "close": "7:00 PM"
+        },
+        "tuesday": {
+          "open": "7:00 AM",
+          "close": "7:00 PM"
+        },
+        "wednesday": {
+          "open": "7:00 AM",
+          "close": "7:00 PM"
+        },
+        "thursday": {
+          "open": "7:00 AM",
+          "close": "7:00 PM"
+        },
+        "friday": {
+          "open": "7:00 AM",
+          "close": "7:00 PM"
+        },
+        "saturday": {
+          "open": "7:00 AM",
+          "close": "7:00 PM"
+        },
+        "sunday": {
+          "open": "7:00 AM",
+          "close": "7:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.4637195,
+        37.7773682
+      ]
+    },
+    {
+      "name": "Trellis Cafe",
+      "address": "981 Mission St, San Francisco, CA",
+      "hours": "Mon-Fri: 9:00 AM - 2:00 PM, Sat-Sun: Closed - ",
+      "weekly_hours": {
+        "monday": {
+          "open": "9:00 AM",
+          "close": "2:00 PM"
+        },
+        "tuesday": {
+          "open": "9:00 AM",
+          "close": "2:00 PM"
+        },
+        "wednesday": {
+          "open": "9:00 AM",
+          "close": "2:00 PM"
+        },
+        "thursday": {
+          "open": "9:00 AM",
+          "close": "2:00 PM"
+        },
+        "friday": {
+          "open": "9:00 AM",
+          "close": "2:00 PM"
+        },
+        "saturday": {
+          "open": "Closed",
+          "close": ""
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": ""
+        }
+      },
+      "coordinates": [
+        -122.4081142,
+        37.781237
+      ]
+    },
+    {
+      "name": "Flour & Branch",
+      "address": "493 3rd St, San Francisco, CA",
+      "hours": "Mon: 8:30 am - 2:30 pm, Tue: 8:30 am - 2:30 pm, Wed: 8:30 am - 2:30 pm, Thu: 8:30 am - 2:30 pm, Fri: 8:30 am - 2:30 pm, Sat: 10:00 am - 2:30 pm, Sun: Closed - ",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:30 am",
+          "close": "2:30 pm"
+        },
+        "tuesday": {
+          "open": "8:30 am",
+          "close": "2:30 pm"
+        },
+        "wednesday": {
+          "open": "8:30 am",
+          "close": "2:30 pm"
+        },
+        "thursday": {
+          "open": "8:30 am",
+          "close": "2:30 pm"
+        },
+        "friday": {
+          "open": "8:30 am",
+          "close": "2:30 pm"
+        },
+        "saturday": {
+          "open": "10:00 am",
+          "close": "2:30 pm"
+        },
+        "sunday": {
+          "open": "Closed",
+          "close": ""
+        }
+      },
+      "coordinates": [
+        -122.3958575,
+        37.781653
+      ]
+    },
+    {
+      "name": "Pistachio Kitchen Restaurant & Espresso Bar",
+      "address": "1535 Franklin St, San Francisco, CA",
+      "hours": "Mon: Closed - Closed, Tue: 8:00 AM - 3:00 PM, Wed: 8:00 AM - 3:00 PM, Thu: 8:00 AM - 3:00 PM, Fri: 8:00 AM - 3:00 PM, Sat: 8:00 AM - 3:00 PM, Sun: 8:00 AM - 3:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "Closed",
+          "close": "Closed"
+        },
+        "tuesday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "wednesday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "thursday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "friday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "saturday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        },
+        "sunday": {
+          "open": "8:00 AM",
+          "close": "3:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.4238206,
+        37.7887785
+      ]
+    },
+    {
+      "name": "Coffee Bodega Farm-to-Table",
+      "address": "50 Fremont St, San Francisco, CA",
+      "hours": "Mon: 8:30 am - 4:00 pm, Tue: 8:00 am - 4:00 pm, Wed: 8:00 am - 4:00 pm, Thu: 8:00 am - 4:00 pm, Fri: 8:00 am - 4:00 pm, Sat: 9:00 am - 4:00 pm, Sun: 9:00 am - 3:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:30 am",
+          "close": "4:00 pm"
+        },
+        "tuesday": {
+          "open": "8:00 am",
+          "close": "4:00 pm"
+        },
+        "wednesday": {
+          "open": "8:00 am",
+          "close": "4:00 pm"
+        },
+        "thursday": {
+          "open": "8:00 am",
+          "close": "4:00 pm"
+        },
+        "friday": {
+          "open": "8:00 am",
+          "close": "4:00 pm"
+        },
+        "saturday": {
+          "open": "9:00 am",
+          "close": "4:00 pm"
+        },
+        "sunday": {
+          "open": "9:00 am",
+          "close": "3:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.3972429,
+        37.7905109
+      ]
+    },
+    {
+      "name": "Fig & Thistle Apothecary",
+      "address": "429 Gough St, San Francisco, CA",
+      "hours": "Mon-Sun: 10am - 10pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "10am",
+          "close": "10pm"
+        },
+        "tuesday": {
+          "open": "10am",
+          "close": "10pm"
+        },
+        "wednesday": {
+          "open": "10am",
+          "close": "10pm"
+        },
+        "thursday": {
+          "open": "10am",
+          "close": "10pm"
+        },
+        "friday": {
+          "open": "10am",
+          "close": "10pm"
+        },
+        "saturday": {
+          "open": "10am",
+          "close": "10pm"
+        },
+        "sunday": {
+          "open": "10am",
+          "close": "10pm"
+        }
+      },
+      "coordinates": [
+        -122.4233115,
+        37.7772479
+      ]
+    },
+    {
+      "name": "Ocean Beach Cafe",
+      "address": "734 La Playa St, San Francisco, CA",
+      "hours": "Mon: 8:00 am - 6:00 pm, Tue: 8:00 am - 6:00 pm, Wed: 8:00 am - 5:00 pm, Thu: 8:00 am - 5:00 pm, Fri: 8:00 am - 6:00 pm, Sat: 8:00 am - 6:00 pm, Sun: 8:00 am - 6:00 pm",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00 am",
+          "close": "6:00 pm"
+        },
+        "tuesday": {
+          "open": "8:00 am",
+          "close": "6:00 pm"
+        },
+        "wednesday": {
+          "open": "8:00 am",
+          "close": "5:00 pm"
+        },
+        "thursday": {
+          "open": "8:00 am",
+          "close": "5:00 pm"
+        },
+        "friday": {
+          "open": "8:00 am",
+          "close": "6:00 pm"
+        },
+        "saturday": {
+          "open": "8:00 am",
+          "close": "6:00 pm"
+        },
+        "sunday": {
+          "open": "8:00 am",
+          "close": "6:00 pm"
+        }
+      },
+      "coordinates": [
+        -122.5099715,
+        37.7745348
+      ]
+    },
+    {
+      "name": "Excelsior Coffee",
+      "address": "4495 Mission St, San Francisco, CA",
+      "hours": "Mon-Sun: 7:30 AM - 4:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "7:30 AM",
+          "close": "4:00 PM"
+        },
+        "tuesday": {
+          "open": "7:30 AM",
+          "close": "4:00 PM"
+        },
+        "wednesday": {
+          "open": "7:30 AM",
+          "close": "4:00 PM"
+        },
+        "thursday": {
+          "open": "7:30 AM",
+          "close": "4:00 PM"
+        },
+        "friday": {
+          "open": "7:30 AM",
+          "close": "4:00 PM"
+        },
+        "saturday": {
+          "open": "7:30 AM",
+          "close": "4:00 PM"
+        },
+        "sunday": {
+          "open": "7:30 AM",
+          "close": "4:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.4333984,
+        37.7263061
+      ]
+    },
+    {
+      "name": "Le Marché Cezanne",
+      "address": "1426 18th St, San Francisco, CA",
+      "hours": "Mon-Sun: 8:00 AM - 8:00 PM",
+      "weekly_hours": {
+        "monday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "tuesday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "wednesday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "thursday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "friday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "saturday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        },
+        "sunday": {
+          "open": "8:00 AM",
+          "close": "8:00 PM"
+        }
+      },
+      "coordinates": [
+        -122.397181,
+        37.7626475
+      ]
+    },
+    {
+      "name": "Sightglass Coffee",
+      "address": "270 7th St, San Francisco, CA 94103",
+      "hours": "Mon-Sun: 07:30 - 15:30",
+      "weekly_hours": {
+        "monday": {
+          "open": "07:30",
+          "close": "15:30"
+        },
+        "tuesday": {
+          "open": "07:30",
+          "close": "15:30"
+        },
+        "wednesday": {
+          "open": "07:30",
+          "close": "15:30"
+        },
+        "thursday": {
+          "open": "07:30",
+          "close": "15:30"
+        },
+        "friday": {
+          "open": "07:30",
+          "close": "15:30"
+        },
+        "saturday": {
+          "open": "07:30",
+          "close": "15:30"
+        },
+        "sunday": {
+          "open": "07:30",
+          "close": "15:30"
+        }
+      },
+      "coordinates": [
+        -122.4085498,
+        37.7769757
+      ]
+    }
+  ]
+}
