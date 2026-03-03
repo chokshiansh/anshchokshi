@@ -147,7 +147,7 @@ const Home: React.FC = () => {
             </button>
             <h3 className="text-sm sm:text-base font-bold text-black mb-3">poker pit</h3>
             <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
-              co-founded an online poker club in 2021, scaling to $20K MRR. Profitable from day one, bootstrapped and acquired within a year.
+              co-founded an online poker club in 2021, scaling to $250,000 revenue. Profitable, bootstrapped and acquired within a year.
             </p>
           </div>
         </>
