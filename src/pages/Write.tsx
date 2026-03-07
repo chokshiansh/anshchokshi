@@ -43,7 +43,7 @@ const Write: React.FC<WriteProps> = ({ essays }) => {
                     </p>
                   );
                 }
-                return <p key={i} className="my-1 font-semibold italic">{trimmed}</p>;
+                return <p key={i} className="my-1 font-semibold">{trimmed}</p>;
               })}
             </div>
             
@@ -54,13 +54,6 @@ const Write: React.FC<WriteProps> = ({ essays }) => {
             )}
           </article>
         ))}
-      </div>
-      
-      <div className="pt-8 sm:pt-12 border-t border-stone-200 mt-8 sm:mt-12">
-        <p className="text-xs sm:text-sm text-stone-400 text-center">
-            No comments, no likes. Just thoughts. <br/>
-            <a href="mailto:email@example.com" className="text-stone-900 hover:underline">Reply via email</a>
-        </p>
       </div>
     </div>
   );
