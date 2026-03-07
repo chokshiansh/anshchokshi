@@ -60,33 +60,33 @@ export const INITIAL_TRAVEL_ENTRIES: TravelEntry[] = [
 
 export const INITIAL_ESSAYS: Essay[] = [
   {
-    id: '1',
-    title: 'The Art of Subtracting',
-    date: 'Jan 12, 2024',
-    readTime: '4 min read',
-    content: `
-      We are constantly taught to add. Add features, add habits, add connections. 
-      
-      But clarity comes from subtraction. It is the art of removing the unessential until only the truth remains. 
-      In design, this is whitespace. In life, this is focus.
-      
-      I've been trying to apply this to my digital life. Less consumption, more creation. Less noise, more signal.
-    `,
-    why: 'Written after deleting Instagram.'
+    id: '3',
+    title: 'Dear Future Children',
+    date: 'Mar 6, 2026',
+    readTime: '3 min read',
+    content: `A few things I've learned about life the hard way. I hope they help you live it well.
+Not rules, just reminders for living a meaningful life.
+1. Be kind, well-spoken, and thoughtful.
+2. Think before you speak. Words stay longer than you think.
+3. Read, Write, Build, Reflect, Train. Do it daily.
+4. Take risks and get uncomfortable from time to time. That's where growth hides.
+5. Health is your greatest asset. Protect your mind and body.
+6. Believe in your gut and instinct. They're usually right.
+7. Love requires sacrifices. The real kind always does.
+8. Don't wait for things to be perfect. Enjoy the process and make friends with imperfections.
+9. Always help others. It costs little and matters a lot.
+10. You only need a couple of best friends. Quality > quantity.
+11. Don't seek validation from society. You don't owe anyone an explanation.
+12. Being a good human > being successful. Always.
+13. Time is your most valuable resource. Use it intentionally.
+14. Don't follow a mundane routine. Live like a lion. Obsess over things you want, go all in, go deep for a while - then rest, be lazy, and recover.
+15. Curiosity + hard work beats talent. Every time.
+16. Set out to do the impossible. Be an outlier and believe in yourself. It's okay if people think you're crazy.
+17. Never do long-distance relationships. Trust me.
+18. Your life isn't defined by the work you do, but by the relationships you build.
+19. There are no shortcuts in life. Nothing meaningful comes easy and it's rarely fun if it does.
+20. Manifestation works. Act like the future version of yourself.`,
   },
-  {
-    id: '2',
-    title: 'Slow Software',
-    date: 'Oct 05, 2023',
-    readTime: '6 min read',
-    content: `
-      Fast software breaks things. Slow software respects the user's time and attention. 
-      It doesn't scream for engagement. It waits to be useful.
-      
-      We need more tools that feel like well-crafted furniture—sturdy, quiet, and reliable.
-    `,
-    why: 'Thoughts on the current state of SaaS.'
-  }
 ];
 
 export const INITIAL_BUILD_LOGS: BuildLog[] = [
