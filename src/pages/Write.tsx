@@ -22,29 +22,8 @@ const Write: React.FC<WriteProps> = ({ essays }) => {
               </h3>
             </header>
 
-            <div className="prose prose-stone prose-sm sm:prose-lg text-stone-800 leading-loose font-light">
-              {essay.content.split('\n').filter(line => line.trim() !== '').map((line, i) => {
-                const trimmed = line.trim();
-                const isNumbered = /^\d+\./.test(trimmed);
-                if (isNumbered) {
-                  const dotAfterNum = trimmed.indexOf('. ');
-                  const rest = trimmed.slice(dotAfterNum + 2);
-                  const sentenceEnd = rest.indexOf('.');
-                  if (sentenceEnd > 0 && sentenceEnd < rest.length - 1) {
-                    return (
-                      <p key={i} className="my-1">
-                        {trimmed.slice(0, dotAfterNum + 2)}<span className="font-semibold">{rest.slice(0, sentenceEnd + 1)}</span>{rest.slice(sentenceEnd + 1)}
-                      </p>
-                    );
-                  }
-                  return (
-                    <p key={i} className="my-1">
-                      {trimmed.slice(0, dotAfterNum + 2)}<span className="font-semibold">{rest}</span>
-                    </p>
-                  );
-                }
-                return <p key={i} className="my-1 font-semibold">{trimmed}</p>;
-              })}
+            <div className="prose prose-stone prose-sm sm:prose-lg text-stone-800 leading-loose font-medium whitespace-pre-line">
+              {essay.content}
             </div>
             
             {essay.why && (
