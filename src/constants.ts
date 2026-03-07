@@ -66,6 +66,7 @@ export const INITIAL_ESSAYS: Essay[] = [
     readTime: '3 min read',
     content: `A few things I've learned about life the hard way. I hope they help you live it well.
 Not rules, just reminders for living a meaningful life.
+
 1. Be kind, well-spoken, and thoughtful.
 2. Think before you speak. Words stay longer than you think.
 3. Read, Write, Build, Reflect, Train. Do it daily.
