@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import { INITIAL_ESSAYS } from '../constants';
 
 const LINKS: Record<string, string> = {
   seismic: 'https://www.seismic.com/platform/aura/',
@@ -113,7 +114,25 @@ const Home: React.FC = () => {
         </Link>
       </section>
 
-      {/* 5. INTERESTS */}
+      {/* 5. RECENT WRITING */}
+      <section>
+        <h2 className="font-bold text-black mb-3 text-sm sm:text-base lg:text-lg">recent writing</h2>
+        <div className="flex flex-col gap-2">
+          {INITIAL_ESSAYS.slice(0, 4).map((essay) => (
+            <div key={essay.id} className="flex items-baseline gap-3">
+              <Link
+                to="/write"
+                className="text-black font-medium text-sm sm:text-base lg:text-lg underline underline-offset-2 decoration-stone-300 hover:decoration-black hover:text-stone-600 transition-colors"
+              >
+                {essay.title}
+              </Link>
+              <span className="text-stone-400 text-xs sm:text-sm lg:text-base whitespace-nowrap">{essay.date}</span>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* 6. INTERESTS */}
       <section>
         <h2 className="font-bold text-black mb-2 text-sm sm:text-base lg:text-lg">interests</h2>
         <div className="text-stone-600 leading-relaxed font-normal text-sm sm:text-base lg:text-lg">
@@ -121,7 +140,7 @@ const Home: React.FC = () => {
         </div>
       </section>
 
-      {/* 6. QUOTE */}
+      {/* 7. QUOTE */}
       <section>
         <p className="italic text-stone-700 text-sm sm:text-base lg:text-lg leading-relaxed">
           "our works main goal must be to tell children that life is worth living"
