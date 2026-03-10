@@ -121,8 +121,8 @@ const Home: React.FC = () => {
           {INITIAL_ESSAYS.slice(0, 4).map((essay) => (
             <div key={essay.id} className="flex items-baseline gap-3">
               <Link
-                to="/write"
-                className="text-black font-medium text-sm sm:text-base lg:text-lg underline underline-offset-2 decoration-stone-300 hover:decoration-black hover:text-stone-600 transition-colors"
+                to={`/write/${essay.slug}`}
+                className="text-stone-600 hover:text-black transition-colors text-left leading-relaxed font-normal text-sm sm:text-base lg:text-lg border-b border-stone-300 hover:border-black pb-0.5r"
               >
                 {essay.title}
               </Link>

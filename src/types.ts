@@ -16,10 +16,11 @@ export interface TravelEntry {
 
 export interface Essay {
   id: string;
+  slug: string;
   title: string;
   date: string;
   readTime: string;
-  content: string; // Markdown-like string
+  content: string;
   why?: string;
 }
 
