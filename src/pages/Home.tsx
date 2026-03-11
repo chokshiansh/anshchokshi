@@ -14,8 +14,8 @@ const Home: React.FC = () => {
   const [pokerOpen, setPokerOpen] = useState(false);
 
   const pastItems = [
-    { org: 'seismic', role: 'aiml engineer' },
     { org: 'mireye', role: 'ceo & founder (now)' },
+    { org: 'seismic', role: 'aiml engineer' },
     { org: 'poker pit', role: 'co-founder (acquired)' },
     { org: 'uoft', role: 'cs, econ, math' },
     { org: 'upsquare', role: 'intern' },
@@ -41,9 +41,9 @@ const Home: React.FC = () => {
         </div>
       </section>
 
-      {/* 3. PAST */}
+      {/* 3. LORE */}
       <section>
-        <h2 className="font-bold text-black mb-3 text-sm sm:text-base lg:text-lg">past</h2>
+        <h2 className="font-bold text-black mb-3 text-sm sm:text-base lg:text-lg">chapters</h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 gap-x-3 gap-y-4 sm:gap-x-4 lg:gap-x-6 lg:gap-y-5">
           {pastItems.map((item) => {
             const href = LINKS[item.org];
