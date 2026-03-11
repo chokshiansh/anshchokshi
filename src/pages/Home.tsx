@@ -4,7 +4,7 @@ import { INITIAL_ESSAYS } from '../constants';
 
 const LINKS: Record<string, string> = {
   seismic: 'https://www.seismic.com/platform/aura/',
-  mireye: 'https://www.mireye.ai/',
+  mireye: 'https://mireye.notion.site/',
   uoft: 'https://www.linkedin.com/feed/update/urn:li:activity:7077305545455472640/',
   upsquare: 'https://upsquaretech.com/',
   badminton: 'https://www.youtube.com/watch?v=wQKMdH3aiAo&t=183s',
@@ -15,7 +15,7 @@ const Home: React.FC = () => {
 
   const pastItems = [
     { org: 'seismic', role: 'aiml engineer' },
-    { org: 'mireye', role: 'ceo & founder (failed)' },
+    { org: 'mireye', role: 'ceo & founder (now)' },
     { org: 'poker pit', role: 'co-founder (acquired)' },
     { org: 'uoft', role: 'cs, econ, math' },
     { org: 'upsquare', role: 'intern' },
