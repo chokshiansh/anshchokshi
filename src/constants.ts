@@ -60,6 +60,24 @@ export const INITIAL_TRAVEL_ENTRIES: TravelEntry[] = [
 
 export const INITIAL_ESSAYS: Essay[] = [
   {
+    id: '5',
+    slug: 'create-more-than-you-consume-give-more-than-you-take',
+    title: 'Create more than you Consume,\nGive more than you Take',
+    date: 'Mar 16, 2026',
+    readTime: '1 min read',
+    content: `I am in debt to the world. Every movie, artist, song, show, tutorial, and game has shaped who I am. I have spent a lifetime consuming the brilliance of others. Now, it is time to pay it back.
+
+The shift is humbling. I create something I love and the world stays silent. No impact. No change. I had to shift the goalpost. I started creating for myself first. When I am the audience, I can never be ghosted.
+
+I am in debt to the people who built me. Mentors who saw my potential. Strangers who pointed the way. The mechanic who fixed my car. The doctor who healed me. I have spent a lifetime receiving. Now, it is time to give more than I take.
+
+This goes beyond the single medium or interaction. It is about how I show up in the world. Am I doing my bit for my community? Am I taking care of the person who cuts my hair? It is a decision to be useful instead of just comfortable.
+
+Moving from a life of taking to a life of contributing is a constant, quiet effort. It is the difference between being a guest in the world and being a host.
+
+I am not saying it is going to be easy but what a privilege to be challenged by a life you created on purpose.`,
+  },
+  {
     id: '4',
     slug: 'the-last-15-days-of-my-life',
     title: 'The Last 15 Days of My Life',
@@ -98,7 +116,7 @@ Even if you know what's coming, you're never prepared for how it feels. The joy 
     slug: 'dear-future-children',
     title: 'Dear Future Children',
     date: 'Mar 6, 2026',
-    readTime: '3 min read',
+    readTime: '2 min read',
     content: `A few things I've learned about life the hard way. I hope they help you live it well.
 Not rules, just reminders for living a meaningful life.
 
