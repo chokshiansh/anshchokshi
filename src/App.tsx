@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Analytics } from '@vercel/analytics/react';
 import Home from './pages/Home';
 import Coffee from './pages/Coffee';
 import Write from './pages/Write';
@@ -32,6 +33,7 @@ const App: React.FC = () => {
           </main>
         </div>
       </div>
+      <Analytics />
     </BrowserRouter>
   );
 };
