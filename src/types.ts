@@ -18,6 +18,7 @@ export interface Essay {
   id: string;
   slug: string;
   title: string;
+  listingTitle?: string; // Shorter title for home page listing
   date: string;
   readTime: string;
   content: string;

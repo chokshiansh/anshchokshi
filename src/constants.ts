@@ -63,6 +63,7 @@ export const INITIAL_ESSAYS: Essay[] = [
     id: '5',
     slug: 'create-more-than-you-consume-give-more-than-you-take',
     title: 'Create more than you Consume,\nGive more than you Take',
+    listingTitle: 'Create more than you Consume',
     date: 'Mar 16, 2026',
     readTime: '1 min read',
     content: `I am in debt to the world. Every movie, artist, song, show, tutorial, and game has shaped who I am. I have spent a lifetime consuming the brilliance of others. Now, it is time to pay it back.

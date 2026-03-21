@@ -124,7 +124,7 @@ const Home: React.FC = () => {
                 to={`/write/${essay.slug}`}
                 className="text-stone-600 hover:text-black transition-colors text-left leading-relaxed font-normal text-sm sm:text-base lg:text-lg border-b border-stone-300 hover:border-black pb-0.5r"
               >
-                {essay.title}
+                {essay.listingTitle ?? essay.title}
               </Link>
               <span className="text-stone-400 text-xs sm:text-sm lg:text-base whitespace-nowrap">{essay.date}</span>
             </div>
