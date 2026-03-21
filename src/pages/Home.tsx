@@ -122,7 +122,7 @@ const Home: React.FC = () => {
             <div key={essay.id} className="flex items-baseline gap-3">
               <Link
                 to={`/write/${essay.slug}`}
-                className="text-stone-600 hover:text-black transition-colors text-left leading-relaxed font-normal text-sm sm:text-base lg:text-lg border-b border-stone-300 hover:border-black pb-0.5r"
+                className="text-stone-600 hover:text-black transition-colors text-left leading-relaxed font-normal text-sm sm:text-base lg:text-lg border-b border-stone-300 hover:border-black pb-0.5r whitespace-pre-line"
               >
                 {essay.title}
               </Link>

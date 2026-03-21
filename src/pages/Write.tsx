@@ -45,7 +45,7 @@ const Write: React.FC<WriteProps> = ({ essays }) => {
             <span className="w-px h-3 bg-stone-300"></span>
             <span>{essay.readTime}</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl text-stone-900 font-medium leading-tight">
+          <h1 className="text-2xl sm:text-3xl text-stone-900 font-medium leading-tight whitespace-pre-line">
             {essay.title}
           </h1>
         </header>
