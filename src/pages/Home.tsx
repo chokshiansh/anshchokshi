@@ -140,16 +140,6 @@ const Home: React.FC = () => {
         </div>
       </section>
 
-      {/* 7. QUOTE */}
-      <section>
-        <p className="italic text-stone-700 text-sm sm:text-base lg:text-lg leading-relaxed">
-          "our works main goal must be to tell children that life is worth living"
-        </p>
-        <p className="text-stone-600 mt-1 text-xs sm:text-sm lg:text-base">
-          - hayao miyazaki
-        </p>
-      </section>
-
       {/* POKER PIT MODAL */}
       {pokerOpen && (
         <>

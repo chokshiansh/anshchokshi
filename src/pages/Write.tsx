@@ -6,13 +6,28 @@ interface WriteProps {
   essays: Essay[];
 }
 
-function renderContent(text: string): React.ReactNode[] {
-  return text.split(/(\*[^*]+\*)/).map((part, i) => {
-    if (part.startsWith('*') && part.endsWith('*')) {
-      return <em key={i}>{part.slice(1, -1)}</em>;
+/** Inline: **bold**, *italic* (bold parsed first) */
+function renderInline(text: string, keyPrefix: string): React.ReactNode[] {
+  return text.split(/(\*\*[^*]+\*\*|\*[^*]+\*)/).map((part, i) => {
+    const k = `${keyPrefix}-${i}`;
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={k}>{part.slice(2, -2)}</strong>;
     }
-    return <React.Fragment key={i}>{part}</React.Fragment>;
+    if (part.startsWith('*') && part.endsWith('*')) {
+      return <em key={k}>{part.slice(1, -1)}</em>;
+    }
+    return <React.Fragment key={k}>{part}</React.Fragment>;
   });
+}
+
+function renderContent(text: string): React.ReactNode {
+  const blocks = text.split(/\n----\n/);
+  return blocks.map((block, bi) => (
+    <React.Fragment key={`block-${bi}`}>
+      {bi > 0 && <hr className="my-8 sm:my-10 border-stone-200" />}
+      <span className="block whitespace-pre-line">{renderInline(block, `b${bi}`)}</span>
+    </React.Fragment>
+  ));
 }
 
 const Write: React.FC<WriteProps> = ({ essays }) => {
@@ -50,7 +65,7 @@ const Write: React.FC<WriteProps> = ({ essays }) => {
           </h1>
         </header>
 
-        <div className="prose prose-stone prose-sm sm:prose-lg text-stone-800 leading-loose font-medium whitespace-pre-line">
+        <div className="prose prose-stone prose-sm sm:prose-lg text-stone-800 leading-loose font-medium">
           {renderContent(essay.content)}
         </div>
 
