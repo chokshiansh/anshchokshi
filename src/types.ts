@@ -18,11 +18,12 @@ export interface Essay {
   id: string;
   slug: string;
   title: string;
-  listingTitle?: string; // Shorter title for home page listing
+  listingTitle?: string;
   date: string;
   readTime: string;
   content: string;
   why?: string;
+  passcode?: string;
 }
 
 export interface BuildLog {
