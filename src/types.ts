@@ -23,7 +23,6 @@ export interface Essay {
   readTime: string;
   content: string;
   why?: string;
-  passcode?: string;
 }
 
 export interface BuildLog {

@@ -65,7 +65,6 @@ export const INITIAL_ESSAYS: Essay[] = [
     title: 'The Honest Truth About Moving',
     date: 'Apr 13, 2026',
     readTime: '7 min read',
-    passcode: '211024',
     content: `I have moved through five cities and three countries in the past eight years.
 
 For a long time, I thought moving was about starting over. New place. New people. New version of you.
