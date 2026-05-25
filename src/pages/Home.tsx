@@ -4,7 +4,7 @@ import { INITIAL_ESSAYS } from '../constants';
 
 const LINKS: Record<string, string> = {
   seismic: 'https://www.seismic.com/platform/aura/',
-  mireye: 'https://mireye.notion.site/',
+  mireye: 'https://www.mireye.ai',
   uoft: 'https://www.linkedin.com/feed/update/urn:li:activity:7077305545455472640/',
   upsquare: 'https://upsquaretech.com/',
   badminton: 'https://www.youtube.com/watch?v=wQKMdH3aiAo&t=183s',
