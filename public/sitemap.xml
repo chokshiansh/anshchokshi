@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://anshchokshi.com/</loc>
+    <image:image>
+      <image:loc>https://anshchokshi.com/ansh-chokshi.jpg</image:loc>
+      <image:title>Ansh Chokshi</image:title>
+      <image:caption>Ansh Chokshi, co-founder of Mireye, San Francisco</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://anshchokshi.com/ansh-chokshi-yc.jpg</image:loc>
+      <image:title>Ansh Chokshi at Y Combinator</image:title>
+      <image:caption>Ansh Chokshi at Y Combinator headquarters</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://anshchokshi.com/ansh-chokshi-badminton.jpg</image:loc>
+      <image:title>Ansh Chokshi badminton state champion</image:title>
+      <image:caption>Ansh Chokshi, badminton state champion athlete</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://anshchokshi.com/ansh-chokshi-badminton-young.jpg</image:loc>
+      <image:title>Ansh Chokshi playing badminton</image:title>
+      <image:caption>Ansh Chokshi competing in badminton tournament</image:caption>
+    </image:image>
+  </url>
+</urlset>
