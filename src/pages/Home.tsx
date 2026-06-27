@@ -6,7 +6,7 @@ const LINKS: Record<string, string> = {
   seismic: 'https://www.seismic.com/platform/aura/',
   mireye: 'https://www.mireye.ai',
   uoft: 'https://www.linkedin.com/feed/update/urn:li:activity:7077305545455472640/',
-  upsquare: 'https://upsquaretech.com/',
+  eraser: 'https://www.youtube.com/watch?v=3fhoV2WFaM4',
   badminton: 'https://www.youtube.com/watch?v=wQKMdH3aiAo&t=183s',
 };
 
@@ -15,10 +15,10 @@ const Home: React.FC = () => {
 
   const pastItems = [
     { org: 'mireye', role: 'ceo & founder (now)' },
+    { org: 'eraser', role: 'aiml engineer' },
     { org: 'seismic', role: 'aiml engineer' },
     { org: 'poker pit', role: 'co-founder (acquired)' },
     { org: 'uoft', role: 'cs, econ, math' },
-    { org: 'upsquare', role: 'intern' },
     { org: 'badminton', role: 'state champion athlete' },
   ];
 
