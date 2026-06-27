@@ -16,7 +16,7 @@ const Home: React.FC = () => {
   const pastItems = [
     { org: 'mireye', role: 'ceo & founder (now)' },
     { org: 'eraser', role: 'aiml engineer' },
-    { org: 'seismic', role: 'aiml engineer' },
+    { org: 'seismic', role: 'data scientist' },
     { org: 'poker pit', role: 'co-founder (acquired)' },
     { org: 'uoft', role: 'cs, econ, math' },
     { org: 'badminton', role: 'state champion athlete' },
