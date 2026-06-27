@@ -60,6 +60,96 @@ export const INITIAL_TRAVEL_ENTRIES: TravelEntry[] = [
 
 export const INITIAL_ESSAYS: Essay[] = [
   {
+    id: '9',
+    slug: 'make-something-people-want',
+    title: 'Make Something People Want',
+    date: 'Jun 20, 2026',
+    readTime: '3 min read',
+    content: `Y Combinator's motto is "make something people want."
+
+I grew up watching two people do exactly that.
+
+32 years ago, my mom started a business from a tiny basement in India with no funding or family backing. She believed in herself and set a goal to design and stitch clothes that people wanted.
+
+My dad was just a friend at the time. He helped out while waiting for his U.S. master's visa. When the opportunity finally came, he made the biggest decision of his life and turned it down because he believed in her.
+
+They built the business together. Somewhere along the way, they fell in love and got married. Three decades later, they still run it.
+
+Their success came from caring deeply. They remembered the small details, went above and beyond for every customer, and treated employees like family.
+
+Some of those customers and employees have been with them for more than 20 years.
+
+Over the years, they served more than 100,000 people without spending a dollar on marketing. All word of mouth. Their customers became their community and that community became their growth engine.
+
+What I learned from them is simple:
+- Do the unscalable things to build trust and relationships.
+- Conviction comes before evidence.
+- Show up every single day.
+
+Through every high and low, I never felt the weight of the business at home. Only now do I understand how deliberate that was. The journey always mattered more to them than the milestones.
+
+No matter how ambitious or delusional my ideas sounded, I was never told to play it safe. They believed in me unconditionally.
+
+Looking back, it was probably inevitable that I would start something of my own.
+
+I grew up curious about the physical world. Scout camps, books, questions like why one crop grows only in a dry season or why the same storm floods one town and not the next.
+
+That curiosity is a big part of why we are building.
+
+AI agents are starting to act in the real world, but they can't reliably understand it. Ask a model a specific question about a specific place and it guesses.
+
+We're building the infrastructure to change that. Our mission is to index every inch of the earth and make it as queryable as the web.
+
+For three decades, my parents built something people wanted.
+
+***Now it is our turn.***`,
+  },
+  {
+    id: '8',
+    slug: 'how-to-get-your-first-job',
+    title: 'How to Get Your First Job',
+    date: 'Jun 1, 2026',
+    readTime: '4 min read',
+    content: `Last year I bumped into this 17-year-old about to start at Berkeley and already convinced he was behind.
+
+Now he's going to Stanford this summer for an internship.
+
+Watching that shift reminded me of something I wish more kids understood: your first opportunity usually doesn't come from having the best resume. It comes from becoming someone people want to bet on.
+
+When I first met him, he was curious in a way that's hard to fake. He asked real questions. What should he focus on? What classes mattered? How should he think about internships? Over time, I became one of the people he'd call when he felt stuck.
+
+After his first semester, he came back home and said something I've felt myself. Everyone else seemed ahead. His friends had big tech internships. Some people could leetcode better. Some just looked more put together.
+
+He thought the problem was skill. I thought it was the story he was telling himself.
+
+He was too focused on what looked impressive on paper. I asked him to stop obsessing over the internship for a second and just build things he actually liked.
+
+Because building does something to you. It gives you proof, better questions, and something real to talk about. You stop sounding like someone asking for a chance and start sounding like someone already in motion.
+
+As he started building more, you could feel the difference. He was less hesitant. He had more energy.
+
+I asked a friend to interview him. He didn't know it was a mock. The feedback was exactly what I expected: too nervous, underconfident.
+
+I told him, early interviews are not really about knowing everything. They're about whether you seem curious, coachable, and worth taking a chance on.
+
+Soon after, I connected him to another founder who was actually hiring. He did better that time. He made it through the technical rounds. He still didn't get it.
+
+That rejection really got to him. Early rejection has a way of feeling bigger than it is. I congratulated him. Get the no's out of the way. Increase your surface area. Keep giving luck more chances to find you.
+
+He stayed in it, and eventually got himself a summer research internship at Stanford. Fully on his own.
+
+That story stayed with me because a lot of young people misunderstand how first opportunities happen.
+
+***Your first job or internship usually doesn't go to the most polished person. It goes to the person who showed real interest, built things before being asked, and stayed in the game long enough to be seen.***
+
+If I had to reduce it to three simple things:
+- Build things
+- Show willingness to learn
+- Keep trying, failing
+
+That's usually enough to get the first door open.`,
+  },
+  {
     id: '7',
     slug: 'the-honest-truth-about-moving',
     title: 'The Honest Truth About Moving',
