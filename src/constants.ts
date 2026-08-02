@@ -65,7 +65,9 @@ export const INITIAL_ESSAYS: Essay[] = [
     title: "Life's Work",
     date: 'Aug 2, 2026',
     readTime: '2 min read',
-    content: `I once watched a podcast where Jensen Huang said, "When I'm not working, I'm thinking about working. And when I'm working, I'm working. I sit through movies, but I don't remember them."
+    content: `3 am thoughts
+
+I once watched a podcast where Jensen Huang said, "When I'm not working, I'm thinking about working. And when I'm working, I'm working. I sit through movies, but I don't remember them."
 
 At the time, I took it lightly.
 
