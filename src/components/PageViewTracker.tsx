@@ -5,9 +5,6 @@ import { track } from '@vercel/analytics/react';
 const PAGE_NAMES: Record<string, string> = {
   '/': 'Home',
   '/coffee': 'Coffee',
-  '/build': 'Build',
-  '/travel': 'Travel',
-  '/life': 'Life',
   '/admin': 'Admin',
 };
 

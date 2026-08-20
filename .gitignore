@@ -12,8 +12,10 @@ dist
 dist-ssr
 *.local
 
-# One-time data scripts (contain API keys)
-scripts/
+# One-time data scripts (contain API keys).
+# Ignore the contents, not the directory, so build-time scripts can be committed.
+scripts/*
+!scripts/generate-agent-md.ts
 
 # Vercel
 .vercel
