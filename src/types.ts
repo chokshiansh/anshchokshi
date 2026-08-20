@@ -1,19 +1,3 @@
-export interface LifeEvent {
-  id: string;
-  year: string;
-  items: string[];
-}
-
-export interface TravelEntry {
-  id: string;
-  city: string;
-  country: string;
-  date: string;
-  reflection: string;
-  coordinates: [number, number]; // [longitude, latitude]
-  images?: string[];
-}
-
 export interface Essay {
   id: string;
   slug: string;
@@ -23,16 +7,6 @@ export interface Essay {
   readTime: string;
   content: string;
   why?: string;
-}
-
-export interface BuildLog {
-  id: string;
-  date: string;
-  title: string;
-  description: string;
-  worked: string;
-  failed: string;
-  learnings: string;
 }
 
 export interface Cafe {
@@ -71,8 +45,6 @@ export interface CoffeeShopFile {
   metadata: Record<string, unknown>;
   coffee_shops: CoffeeShop[];
 }
-
-export type ViewMode = 'list' | 'map';
 
 export interface BookingData {
   date: string | null;

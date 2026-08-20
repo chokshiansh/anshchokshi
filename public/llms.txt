@@ -1,0 +1,32 @@
+# Ansh Chokshi
+
+> Athlete, engineer, founder of Mireye. Founder & CEO of Mireye (https://www.mireye.ai), based in San Francisco, California, USA.
+
+https://anshchokshi.com is a JavaScript-rendered single-page app. If you cannot execute
+JavaScript, use the markdown files below — they contain the complete content of
+the site. For everything in a single request, fetch https://anshchokshi.com/llms-full.txt
+
+## Profile
+
+- [Full profile](https://anshchokshi.com/ansh-chokshi.md): background, roles, company, contact details
+- [Everything in one file](https://anshchokshi.com/llms-full.txt): profile plus every essay
+
+## Essays
+
+- [Life's Work](https://anshchokshi.com/write/lifes-work.md): Aug 2, 2026, 2 min read
+- [Make Something People Want](https://anshchokshi.com/write/make-something-people-want.md): Jun 20, 2026, 3 min read
+- [How to Get Your First Job](https://anshchokshi.com/write/how-to-get-your-first-job.md): Jun 1, 2026, 4 min read
+- [The Honest Truth About Moving](https://anshchokshi.com/write/the-honest-truth-about-moving.md): Apr 13, 2026, 7 min read
+- [The Art of Doing it Anyway](https://anshchokshi.com/write/the-art-of-doing-it-anyway.md): Mar 21, 2026, 5 min read
+- [Create more than you Consume, Give more than you Take](https://anshchokshi.com/write/create-more-than-you-consume-give-more-than-you-take.md): Mar 16, 2026, 1 min read
+- [The Last 15 Days of My Life](https://anshchokshi.com/write/the-last-15-days-of-my-life.md): Mar 10, 2026, 4 min read
+- [Dear Future Children](https://anshchokshi.com/write/dear-future-children.md): Mar 6, 2026, 2 min read
+
+## Elsewhere
+
+- Email: anshchokshi@gmail.com
+- X / Twitter: https://x.com/ansh_chokshi
+- LinkedIn: https://www.linkedin.com/in/ansh-chokshi/
+- GitHub: https://github.com/chokshiansh
+- Website: https://anshchokshi.com
+- Book a coffee chat in San Francisco: https://anshchokshi.com/coffee

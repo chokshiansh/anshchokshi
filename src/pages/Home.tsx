@@ -1,26 +1,10 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { INITIAL_ESSAYS } from '../constants';
-
-const LINKS: Record<string, string> = {
-  seismic: 'https://www.seismic.com/platform/aura/',
-  mireye: 'https://www.mireye.ai',
-  uoft: 'https://www.linkedin.com/feed/update/urn:li:activity:7077305545455472640/',
-  eraser: 'https://www.youtube.com/watch?v=3fhoV2WFaM4',
-  badminton: 'https://www.youtube.com/watch?v=wQKMdH3aiAo&t=183s',
-};
+import { CHAPTER_LINKS as LINKS, CHAPTERS as pastItems, POKER_PIT_NOTE } from '../profile';
 
 const Home: React.FC = () => {
   const [pokerOpen, setPokerOpen] = useState(false);
-
-  const pastItems = [
-    { org: 'mireye', role: 'ceo & founder (now)' },
-    { org: 'eraser', role: 'aiml engineer' },
-    { org: 'seismic', role: 'data scientist' },
-    { org: 'poker pit', role: 'co-founder (acquired)' },
-    { org: 'uoft', role: 'cs, econ, math' },
-    { org: 'badminton', role: 'state champion athlete' },
-  ];
 
   return (
     <div className="flex flex-col gap-6 sm:gap-0 sm:justify-between sm:min-h-[calc(100vh-7rem)] lg:min-h-[calc(100vh-8rem)] animate-in fade-in duration-1000">
@@ -157,7 +141,7 @@ const Home: React.FC = () => {
             </button>
             <h3 className="text-sm sm:text-base font-bold text-black mb-3">poker pit</h3>
             <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
-              co-founded an online poker club in 2021, scaling to $250,000 revenue. Profitable, bootstrapped and acquired within a year.
+              {POKER_PIT_NOTE}
             </p>
           </div>
         </>

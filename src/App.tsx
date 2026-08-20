@@ -1,20 +1,12 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { Analytics } from '@vercel/analytics/react';
 import PageViewTracker from './components/PageViewTracker';
 import Home from './pages/Home';
 import Coffee from './pages/Coffee';
 import Write from './pages/Write';
-import Build from './pages/Build';
-import Travel from './pages/Travel';
-import Life from './pages/Life';
 import Admin from './pages/Admin';
-import {
-  INITIAL_ESSAYS,
-  INITIAL_BUILD_LOGS,
-  INITIAL_TRAVEL_ENTRIES,
-  INITIAL_LIFE_EVENTS,
-} from './constants';
+import { INITIAL_ESSAYS } from './constants';
 
 const App: React.FC = () => {
   return (
@@ -27,10 +19,10 @@ const App: React.FC = () => {
               <Route path="/" element={<Home />} />
               <Route path="/coffee" element={<Coffee />} />
               <Route path="/write/:slug" element={<Write essays={INITIAL_ESSAYS} />} />
-              <Route path="/build" element={<Build logs={INITIAL_BUILD_LOGS} />} />
-              <Route path="/travel" element={<Travel entries={INITIAL_TRAVEL_ENTRIES} />} />
-              <Route path="/life" element={<Life events={INITIAL_LIFE_EVENTS} />} />
               <Route path="/admin" element={<Admin />} />
+              {/* Unknown paths (including the retired /life, /travel, /build) go home
+                  rather than rendering a blank page. */}
+              <Route path="*" element={<Navigate to="/" replace />} />
             </Routes>
           </main>
         </div>
