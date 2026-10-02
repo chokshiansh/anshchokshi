@@ -65,7 +65,7 @@ i sat there for two hours, just watching and smiling, without a worry in the wor
 
 later, on the walk back, a gray fox appeared on the trail, coming straight toward me. it saw me and kept walking. i expected it to turn away, but instead it stopped near a small hole. for a few minutes, it watched the same spot.
 
-then it pounced. missed. and tried again. i was about fifteen feet away, watching it hunt. on the fifth attempt, it caught something and ran off with its catch.
+then it pounced. missed. and tried again. i was about thirty feet away, watching it hunt. on the fifth attempt, it caught something and ran off with its catch.
 
 when i got back to the car, i grabbed my phone and texted my mom, excited to tell her everything.
 
@@ -77,7 +77,7 @@ on the drive back, i kept replaying how casually it had all come together. i had
 
 i have spent most of my life thinking in terms of logic, math, probabilities, and things i can explain. but that afternoon left me with a sense of connection i couldn't quite put into those terms. there was something almost spiritual about finding myself, alone and by chance, in the middle of so much life. i felt a kind of gratitude i didn't know where to place.
 
-for the past few months, i have been putting everything into mireye, doing my [life's work](/write/lifes-work) of [building something people want](/write/make-something-people-want).
+for the past few months, i have been putting everything into mireye, doing my [life's work](/write/lifes-work) of [making something people want](/write/make-something-people-want).
 
 i was feeling burnt out. that afternoon gave me the energy to keep pushing.
 
