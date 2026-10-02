@@ -6,21 +6,40 @@ interface WriteProps {
   essays: Essay[];
 }
 
-/** Inline: ***bold+italic***, **bold**, *italic* (longest match first) */
+const LINK_CLASS =
+  'underline underline-offset-2 decoration-stone-300 hover:decoration-black transition-colors';
+
+/** Inline: [text](url), ***bold+italic***, **bold**, *italic* (longest match first) */
 function renderInline(text: string, keyPrefix: string): React.ReactNode[] {
-  return text.split(/(\*\*\*[^*]+\*\*\*|\*\*[^*]+\*\*|\*[^*]+\*)/).map((part, i) => {
-    const k = `${keyPrefix}-${i}`;
-    if (part.startsWith('***') && part.endsWith('***')) {
-      return <strong key={k}><em>{part.slice(3, -3)}</em></strong>;
-    }
-    if (part.startsWith('**') && part.endsWith('**')) {
-      return <strong key={k}>{part.slice(2, -2)}</strong>;
-    }
-    if (part.startsWith('*') && part.endsWith('*')) {
-      return <em key={k}>{part.slice(1, -1)}</em>;
-    }
-    return <React.Fragment key={k}>{part}</React.Fragment>;
-  });
+  return text
+    .split(/(\[[^\]]+\]\([^)]+\)|\*\*\*[^*]+\*\*\*|\*\*[^*]+\*\*|\*[^*]+\*)/)
+    .map((part, i) => {
+      const k = `${keyPrefix}-${i}`;
+      const link = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+      if (link) {
+        const [, label, href] = link;
+        // Relative hrefs stay client-side; anything else leaves the site.
+        return href.startsWith('/') ? (
+          <Link key={k} to={href} className={LINK_CLASS}>
+            {renderInline(label, `${k}-l`)}
+          </Link>
+        ) : (
+          <a key={k} href={href} target="_blank" rel="noopener noreferrer" className={LINK_CLASS}>
+            {renderInline(label, `${k}-l`)}
+          </a>
+        );
+      }
+      if (part.startsWith('***') && part.endsWith('***')) {
+        return <strong key={k}><em>{part.slice(3, -3)}</em></strong>;
+      }
+      if (part.startsWith('**') && part.endsWith('**')) {
+        return <strong key={k}>{part.slice(2, -2)}</strong>;
+      }
+      if (part.startsWith('*') && part.endsWith('*')) {
+        return <em key={k}>{part.slice(1, -1)}</em>;
+      }
+      return <React.Fragment key={k}>{part}</React.Fragment>;
+    });
 }
 
 function renderContent(text: string): React.ReactNode {

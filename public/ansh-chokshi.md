@@ -30,6 +30,7 @@ In his own words: "i take calculated risks based on expected value, game theory 
 Ansh Chokshi writes essays on building companies, taking concentrated bets, moving
 between cities, and what work costs you.
 
+- [You'll Have to Take My Word for It](https://anshchokshi.com/write/youll-have-to-take-my-word-for-it) — Oct 2, 2026, 7 min read. Markdown: https://anshchokshi.com/write/youll-have-to-take-my-word-for-it.md
 - [Life's Work](https://anshchokshi.com/write/lifes-work) — Aug 2, 2026, 2 min read. Markdown: https://anshchokshi.com/write/lifes-work.md
 - [Make Something People Want](https://anshchokshi.com/write/make-something-people-want) — Jun 20, 2026, 3 min read. Markdown: https://anshchokshi.com/write/make-something-people-want.md
 - [How to Get Your First Job](https://anshchokshi.com/write/how-to-get-your-first-job) — Jun 1, 2026, 4 min read. Markdown: https://anshchokshi.com/write/how-to-get-your-first-job.md
