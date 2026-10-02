@@ -55,9 +55,12 @@ function flatTitle(essay: Essay): string {
  *     parsed as a setext H2. Emit a properly padded thematic break instead.
  *   - A line that is entirely **bolded** is acting as a section heading.
  *   - Emphasis markers (***, **, *) are already markdown-compatible.
+ *   - Inline links are authored root-relative for the SPA router. These files are
+ *     fetched standalone, so resolve them against the site origin.
  */
 function toMarkdown(content: string): string {
   return content
+    .replace(/(\]\()\/([^)]*\))/g, `$1${SITE_URL}/$2`)
     .split(/\n----\n/)
     .map((block) =>
       block

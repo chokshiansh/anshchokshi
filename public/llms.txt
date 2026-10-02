@@ -13,6 +13,7 @@ the site. For everything in a single request, fetch https://anshchokshi.com/llms
 
 ## Essays
 
+- [You'll Have to Take My Word for It](https://anshchokshi.com/write/youll-have-to-take-my-word-for-it.md): Oct 2, 2026, 7 min read
 - [Life's Work](https://anshchokshi.com/write/lifes-work.md): Aug 2, 2026, 2 min read
 - [Make Something People Want](https://anshchokshi.com/write/make-something-people-want.md): Jun 20, 2026, 3 min read
 - [How to Get Your First Job](https://anshchokshi.com/write/how-to-get-your-first-job.md): Jun 1, 2026, 4 min read
